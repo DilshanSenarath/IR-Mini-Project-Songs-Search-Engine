@@ -1,0 +1,26 @@
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "",
+        "spotify": "",
+        "apple": ""
+    },
+    "video_watch": "",
+    "download": "",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}
