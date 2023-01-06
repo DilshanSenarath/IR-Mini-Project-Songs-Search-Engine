@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "පාරමිතා නොපුරමු අප දෙදෙනා",
+    "released_year": "2020",
+    "album": "කැසට් එක (සජීවී)",
+    "genre": "සම්භාව්‍ය, ඉන්දියානු ජන",
+    "lyrics": "පාරමිතා නොපුරමු අප දෙදෙනා\nමතු මතු සංසාරේ\nපාන සිනා සුළඟට විසිකරමු\nහමුවෙන හැම වාරේ\n\nපාරමිතා නොපුරමු අප දෙදෙනා\nමතු මතු සංසාරේ\nපාන සිනා සුළඟට විසිකරමු\nහමුවෙන හැම වාරේ\n\nකඳුළු වලින් දියවී යනවා නම්\nඅවිහිංසක රූපේ\nදෝරේ ගලන තුරු කඳුළු හලන්නම්\nමට ඔබ නොපෙනෙන සේ\n\nපාරමිතා නොපුරමු අප දෙදෙනා\nමතු මතු සංසාරේ\nපාන සිනා සුළඟට විසිකරමු\nහමුවෙන හැම වාරේ\n\nමට ඔබ, ඔබ මට පෙම්කල තරමට\nවෙන්වී යන්න බැරී\nඅසම්මතේ පෙම්වතුන් නොවෙමු අපි\nවරදට වහල් වෙවී\n\nපාරමිතා නොපුරමු අප දෙදෙනා\nමතු මතු සංසාරේ\nපාන සිනා සුළඟට විසිකරමු\nහමුවෙන හැම වාරේ\n\nපාරමිතා නොපුරමු අප දෙදෙනා\nමතු මතු සංසාරේ\nපාන සිනා සුළඟට විසිකරමු\nහමුවෙන හැම වාරේ",
+    "lyricist": "ලලිත් වසන්ත",
+    "musician": "ජයසිරි අමරසේකර",
+    "singer": "ශෂිකා නිසංසලා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/paramitha-nopuramu-apa-dedena-shashika-nisansala",
+        "spotify": "https://open.spotify.com/track/7r27OMb35Z6EipsEyNDMFm?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/paramitha-live/1578453090?i=1578453091"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=WR2Y29CzrGs",
+    "download": "https://songhub.lk/song/675b5530-bd0a-11e9-be85-95a23f26a3e9/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "පාන සිනා සුළඟට විසිකරමු",
+            "meaning": "විශේෂ හැදිනීමක් නැති අය ලෙස සිටිමු",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සිනා සීම",
+            "target_domain": "හැදුනුම්කම"
+        },
+        {
+            "lyrics_part": "කඳුළු වලින් දියවී යනවා නම්",
+            "meaning": "හැඩීමෙන් ඔබ අමතක වෙනවා නම්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "කඳුළු",
+            "target_domain": "සිත සාදා ගැනීම"
+        }
+    ]
+}

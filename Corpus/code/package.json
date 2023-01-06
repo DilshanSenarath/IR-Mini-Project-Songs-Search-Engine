@@ -4,7 +4,8 @@
   "description": "",
   "main": "create_json_files.js",
   "scripts": {
-    "create_json_files": "node create_json_files.js"
+    "create_json_files": "node create_json_files.js",
+    "lyrics_formatter": "node lyrics_formatter/index.js"
   },
   "author": "",
   "license": "ISC"
