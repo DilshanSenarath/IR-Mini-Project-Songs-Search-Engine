@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ඉරණම් ගමනේ",
+    "released_year": "2020",
+    "album": "ඉරණම් ගමනේ",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ඉරණම් ගමනේ පෙරැමන් පිරැවෙි\nරිදුමන් සගවා නිබදේ\nසැනසුම දිවියේ හැම දේ තිබුනේ\nඔය උණුහුම ලග ලබැදේ\n\nඑපා මොහොතක්\nයන්න කොහෙවත්\nමගෙන් වෙන් වි\nහිනෙකින් වත්\n\nමෙහෙම හැගුමක් සසරේ කොහෙවත්\nදැනිලනමි නැ හිනෙකින්ව වත්\n\nකොතෙක් බාදා ආවත් සොයා\nනුබෙන් මොහොතක් ඇතට නොයා\nඇසිල්ලක් වත් වෙනතක් බලා\nනොයා ඉන්නමි ලගටම වෙලා\n\nදිනු හැම දේ පැරදුනත් මා\nදිනා දෙන්නමි ඔබෙි පැතුමන්\nමෙතැන් සිට මෙි සසර කොතරමි\nදුර උනත් මා එකක යන්නමි",
+    "lyricist": "උදේෂ් ආර්යන්",
     "musician": "අරෝෂ් ජයකොඩි",
-    "singer": "",
+    "singer": "ඩිනේෂ් තරන්ග",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/iranam-gamane-peruman-piruwe-dinesh-tharanga",
         "spotify": "https://open.spotify.com/track/3GJ7t2Xt4F50o4wiE0KKLa?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/03bb0f20-7ec3-11ea-b3ba-6132254b11b5/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ඉරණම් ගමනේ",
+            "meaning": "ජීවිත ගමන",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ඉරණම් ගමනේ",
+            "target_domain": "ජීවිත ගමන"
         }
     ]
 }

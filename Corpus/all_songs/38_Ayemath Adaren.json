@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "පෙනෙන නොපෙනෙන",
+    "released_year": "2020",
+    "album": "ආයෙමත් ආදරෙන්",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "පෙනෙන නොපෙනෙන දුරක ඉඳන්\nනුඹ ඇවිත් හිත ලඟට හොරෙන්\nආවාට නොකියාම ජීවිතෙන්\nනවතින්න හිතුවාද ආයෙමත් ආදරෙන්\n\nදකින හිමිවන හීනේ, නුඹ කොතැන හිටියා\nමතක සැමරුම් අතරේ, ජීවිතය තිබුනා\nහඩන නිනැහෙන නෙත් නුඹේ, උරහිසේ තිබුනා\nඇත්තමයි නුඹ අහසක්, වගේමයි හිතුනා\n\nනුහුරු නුපුරුදු හීන අරන්\nලඟට ඇවිදින් තුරුලු වෙමින්\nආවාට නොකියාම ජීවිතෙන්\nනවතින්න හිතුවාද ආයෙමත් ආදරෙන්\n\nමිරිඟුවක හිත තියලා, නුඹ දුරක ඇදුනා\nරංචු ගැහෙනා රෑනේ, තනිකමක් දැනුනා\nඇසිල්ලක දුටු හීනෙන්, හිත හුඟක් රිදුනා\nඅරුත නොදකින සෙනෙහේ, ඔය නමත් රැඳුනා\n\nපෙනෙන නොපෙනෙන දුරක ඉඳන්\nනුඹ ඇවිත් හිත ලඟට හොරෙන්\nආවාට නොකියාම ජීවිතෙන්\nනවතින්න හිතුවාද ආයෙමත් ආදරෙන්\n\nආවාට නොකියාම ජීවිතෙන්\nනවතින්න හිතුවාද ආයෙමත් ආදරෙන්\nආයෙමත් ආදරෙන්\n",
+    "lyricist": "රවිතා වාකිෂ්ට",
     "musician": "තිළිණ රුහුණගේ",
-    "singer": "",
+    "singer": "ආත්මා ලියනගේ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/ayemath-adaren-remix-athula-adhikari-samitha-mudunkotuwa",
         "spotify": "https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/6a68fa60-8e0c-11ec-b935-7f7c1d040f85/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "හඩන නිනැහෙන නෙත් නුඹේ, උරහිසේ තිබුනා",
+            "meaning": "ඇය මට සමීපව සිටියා",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "උරහිසේ",
+            "target_domain": "සමීපවම"
+        },
+        {
+            "lyrics_part": "මිරිඟුවක හිත තියලා",
+            "meaning": "සැබෑ නොවන සිතුවිල්ලක්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මිරිඟුවක",
+            "target_domain": "සැබෑ නොවෙන දෙයක්"
         }
     ]
 }

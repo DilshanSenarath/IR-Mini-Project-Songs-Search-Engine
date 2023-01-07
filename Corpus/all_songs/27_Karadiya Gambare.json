@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "කරදිය ගැඹරේ",
+    "released_year": "2020",
+    "album": "ජනප්‍රිය සිංහල සිංහල සින්දු වෙලුම. A (සජීව)",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, ගසල්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "කරදිය ගැඹරේ තුන්යම ගෙවුනේ\nනුඹගේ දෑතට දිරිය වඩන්නයි\nසුහුඹුල් අත්පා යදඬු කරන්නයි\nකිරිකැටි පුතුනේ... කිරිකැටි පුතුනේ\n\nඅව්වට වැගිරෙන දාදිය වැස්සේ\nකළුගල් තලලා මහමං තැනුවේ\nනිවහල් ලොවකට නුඹට වඩින්නයි\nකිරිකැටි පුතුනේ... කිරිකැටි පුතුනේ\n\nදුම් රොටු අතරේ කම්මල් ඇතුළේ\nදැතිරෝදෙට ගත ජීවය දුන්නේ\nනව මිනිසෙකු නව ලොවට පුදන්නයි\nකිරිකැටි පුතුනේ... කිරිකැටි පුතුනේ\n\nකරදිය ගැඹරේ තුන්යම ගෙවුනේ\nනුඹගේ දෑතට දිරිය වඩන්නයි\nසුහුඹුල් අත්පා යදඬු කරන්නයි\nකිරිකැටි පුතුනේ... කිරිකැටි පුතුනේ",
+    "lyricist": "රෝහණ වීරසිංහ",
     "musician": "රෝහණ වීරසිංහ",
-    "singer": "",
+    "singer": "එඩ්වඩ් ජයකොඩි",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/karadiya-gambare-sandaru-suyamaya-edward-jayakody",
         "spotify": "https://open.spotify.com/track/63PoAi9rjXsvL40yBcLKpq?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/72c524d3-8f9e-4cdc-9c9d-4a6562830f84/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "නුඹගේ දෑතට දිරිය වඩන්නයි",
+            "meaning": "නුඹගේ ජීවිතය සාර්ථක කරවන්නයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "දෑතට",
+            "target_domain": "ජීවිතය"
         }
     ]
 }

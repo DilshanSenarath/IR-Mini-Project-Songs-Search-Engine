@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "පැහැසර ඔබේ ආදරේ",
+    "released_year": "2012",
+    "album": "ජොක් ජෑම්",
     "genre": "පොප්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "මන්දාරම් වැහිපොද හිරිකඩ මගෙ සියොලඟ රන්දාලා\nඋන් අප ආගිය මග වගතොට මතක අගුලු හැරදාලා\nවාවන්නට බැරිතැන දුක්කඳ දෙනෙත් පියන් කවුළු කඩා\nදෝරෙගලා ගියඋනු කඳුලැලි වියලි දෙතෙල් මත වැටුනා\n\nපැහැසර ඔබේ ආ... දරේ... මන්දාරම් අඳුරේ වෙලී\nසැඟවී ගිය ඔබෙ සෙනහේ... හද රිද්දනවා රහසේ\n\nමැලවුනු මගෙ දෙතොලෙහි රැඳි තතු සැමගෙන් සඟවා ඉන්න\nඔබ නොමැතිව සිනහනගනයුරු මට කියා දී යන්න\nඋමතුව අද විලාපදෙන හඬ අහගෙන ඉන්... න\nබිඳකට ඇවිදින් මගෙ ලය... මත ඔය සවන තියන්න\n\nපැහැසර ඔබේ ආදරේ මන්දාරම් අඳුරේ වෙලී\nසැඟවී ගිය ඔබෙ සෙනහේ හද රිද්දනවා රහසේ",
+    "lyricist": "සජිත් දිල්පහන්",
     "musician": "සෙන්ටිග්‍රේඩ්ස්",
-    "singer": "",
+    "singer": "සෙන්ටිග්‍රේට්ස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/karoke-song/mandaram-wahipoda-pahasara-obe-adare-karaoke-mp3",
         "spotify": "https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/karoke/download/f754d240-2820-11ec-bc5d-43a1a6076bfa%29%29",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "මතක අගුලු හැරදාලා",
+            "meaning": "යටපත් කල මතකය අවදිවීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අගුලු",
+            "target_domain": "යටපත් කල මතකය"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "චංචල දෑසේ මායා",
+    "released_year": "2014",
+    "album": "චංචල දෑසේ",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "චංචල දෑසේ මායා\nඉස්සර වාගේ පාලා\nඉන්නට ආයේ මා හා\nආදරේ දීලා\nමල් වගේ සිනහා ගේනා\nමුදු හාදු වෑහේනා\nනින්දෙදි සනසාලා\nහීන සාදනා\n\nඊයේ වාගේ\nමා දෑතේ යාවීලා\nසීතේ නෑවීලා\nනුඹ එයිදෝ පායාලා\n\nනිම්හිම් නැති සිත්තම් හද ගෙත්තම් කරවා\nනිල්වන් නෙතු යන්තම් ළඟ දැන්නම් නැතුවා\nපාට සේද සේල ගෙන ආ ඔයා\nනාවදාක හීන පාලු වී ගියා\n\nඊයේ වාගේ\nමා දෑතේ යාවීලා\nසීතේ නෑවීලා\nනුඹ එයිදෝ පායාලා\n\nසන්සුන් නැති සිත්නම් මගේ ඉක්මන් වෙනවා\nළං ළං වෙනු ඇත්දැයි යළි පෙම්බස් දොඩනා\nනෑසු ගීත සීත රෑක ගී කියා\nකෝල දෑස ලෝල වේවි මා පෙළා\n\nඊයේ වාගේ\nමා දෑතේ යාවීලා\nසීතේ නෑවීලා\nනුඹ එයිදෝ පායාලා\n\nචංචල දෑසේ මායා\nඉස්සර වාගේ පාලා\nඉන්නට ආයේ මා හා\nආදරේ දීලා\nමල් වගේ සිනහා ගේනා\nමුදු හාදු වෑහේනා\nනින්දෙදි සනසාලා\nහීන සාදනා\n\nඊයේ වාගේ\nමා දෑතේ යාවීලා\nසීතේ නෑවීලා\nනුඹ එයිදෝ පායාලා",
+    "lyricist": "රාජ් තිලෛයම්පලම්",
     "musician": "රාජ් තිල්ලයම්පලම්",
-    "singer": "",
+    "singer": "‍රයිනි චරුකා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/chanchala-dase-maya-raini-charuka",
         "spotify": "https://open.spotify.com/track/61YyLeIrd6kyrSUVzSbncs?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/6713d010-bd0a-11e9-bb3e-b97a568f718b/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "නුඹ එයිදෝ පායාලා",
+            "meaning": "එක්විටම පැමිණීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පායාලා",
+            "target_domain": "පැමිණීම"
+        },
+        {
+            "lyrics_part": "සිත්තම් හද ගෙත්තම් කරවා",
+            "meaning": "හදවතේ සිතුවිලි පුබුදුවා",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ගෙත්තම්",
+            "target_domain": "පුබුදුවා"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "මේ ඇස් දිහා බලන්",
+    "released_year": "2011",
+    "album": "මේ ඇස් දිහා බලන්",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "මේ ඇස් දිහා බලන්\nදැන්වත් කියන්න මගෙ රත්තරන්\nඔබ මගේද\nමා ඔබේද\nඅපි අපේද කියලා\nදැන්වත් කියන්න මගෙ රත්තරන්\n\nපැහැදුල් නුවන් දල්වා\nමා දෙසට පා කරලා\nහදගැස්ම මග නවතා\nදෙහදක් ගොලු වුව උන්නා\nඔබෙ සෙනෙහෙ\nමග රැඳුනෙ\nඇයි සංසාරයේ\nමේ භවයේ\nමා වෙනුවෙන්\nඔබ මැව්වේ\nදැන්වත් කියන්න මගෙ රත්තරන්\n\nමේ ඇස් දිහා බලන්\nදැන්වත් කියන්න මගෙ රත්තරන්\nඔබ මගේද\nමා ඔබේද\nඅපි අපේද කියලා\nදැන්වත් කියන්න මගෙ රත්තරන්\n\nකඳුලැල් නෙතින් පලවා\nපැතුමන් සිතේ තනි බින්දා\nසිල් ගත්තු සිත සඟවා\nඔබෙ දෑත වෙත අත පෑවා\nඔබෙ සෙනෙහෙ\nමග රැඳුනෙ\nඇයි සංසාරයේ\nමේ භවයේ\nමා වෙනුවෙන්\nඔබ මැව්වේ\nදැන්වත් කියන්න මගෙ රත්තරන්\n\nමේ ඇස් දිහා බලන්\nදැන්වත් කියන්න මගෙ රත්තරන්\nඔබ මගේද\nමා ඔබේද\nඅපි අපේද කියලා\nදැන්වත් කියන්න මගෙ රත්තරන්",
+    "lyricist": "ඩිලාන් ගමගේ",
     "musician": "රදීශ් වැන්දබෝනා",
-    "singer": "",
+    "singer": "ශිහාන් මිහිරංග",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/me-es-diha-balan-shihan-mihiranga",
         "spotify": "https://open.spotify.com/track/6SxBw4j4nRZu8TvpbEt5kO?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/682712b0-bd0a-11e9-8ae9-f11a5729b35b/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "මගෙ රත්තරන්",
+            "meaning": "නුඹ මට විශේෂ කෙනෙක්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "ආදරනීය කෙටි නම",
+            "target_domain": "විශේෂත්වය"
+        },
+        {
+            "lyrics_part": "සිල් ගත්තු සිත සඟවා",
+            "meaning": "හැගීම් නොමති සිත යටපත් කිරීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සිල් ගත්තු",
+            "target_domain": "හැගීම් නොමති"
         }
     ]
 }
