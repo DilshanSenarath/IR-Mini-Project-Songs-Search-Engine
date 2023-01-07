@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "මේ බස් නැවතුම",
+    "released_year": "2018",
+    "album": "සුභා කියා",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "මේ බස් නැවතුම පෙර හැමදිනකම\nඅප හමුවුණ හැටි දැන උන්නේ\nමා තනිවුණ බව ඔබ සමුගෙන බව\nබස් නැවතුම තව නෑ \n\nමේ බස් නැවතුම පෙර හැමදිනකම\nඅප හමුවුණ හැටි දැන උන්නේ\nමා තනිවුණ බව ඔබ සමුගෙන බව\nබස් නැවතුම තව නෑ දන්නේ\n\nඉස්සර හවසට මා එනතුරු ඔබ\nමෙතනම සිටියා දෙනෙත අයා\nඑකම රියක නැග එකම අසුනෙ ඉඳ\nගිය හැටි මතකයි තවම එදා\n\nමේ බස් නැවතුම පෙර හැමදිනකම\nඅප හමුවුණ හැටි දැන උන්නේ\nමා තනිවුණ බව ඔබ සමුගෙන බව\nබස් නැවතුම තව නෑ දන්නේ\n\nප්රේමය නිමවුණ මා අද තනිවම\nරියකට මෙතැනින් ගොඩ වෙනවා\nඒ රියෙහිම ඔබ තව කෙනෙකුන් ළඟ\nඑකම අසුනේ ඉඳගෙන යනවා\n\nමේ බස් නැවතුම පෙර හැමදිනකම\nඅප හමුවුණ හැටි දැන උන්නේ\nමා තනිවුණ බව ඔබ සමුගෙන බව\nබස් නැවතුම තව නෑ දන්නේ",
+    "lyricist": "චන්ද්‍රදාස ප්‍රනාන්දු",
     "musician": "අශෝක පීරිස්",
-    "singer": "",
+    "singer": "පුන්සිරි සොයිසා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/me-bus-newathuma-leya-saha-laya-sathmini-soysa-punsiri-soyza",
         "spotify": "https://open.spotify.com/track/5XlE3fTo1LT8eFwvzzGuCD?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/d65e703b-a2bd-437d-af86-2316aed97252/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "මේ බස් නැවතුම පෙර හැමදිනකම\nඅප හමුවුණ හැටි දැන උන්නේ\nමා තනිවුණ බව ඔබ සමුගෙන බව\nබස් නැවතුම තව නෑ දන්නේ",
+            "meaning": "කාලයක් පැවති ආදරය නිම වී වැඩි කලක් නති බව පැවසීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "බස් නැවතුම",
+            "target_domain": "කාලය"
         }
     ]
 }

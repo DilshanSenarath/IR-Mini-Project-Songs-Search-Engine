@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "වස්සානයට අත වනලා",
+    "released_year": "2011",
+    "album": "වස්සානයට",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "වස්සානයට අත වනලා ඉමු මග බලන්\nඋද්යානයක කෙළවරට වී\nඔබ ඈතින් ඉඳන් ඉන්නවද රත්තරන්\nමං ගාවින්ම උණුහුම නොදී\n\nහාදු දෙන වැස්සේ දේදුන්න අස්සේ\nඅපි පාවෙමුද තුරුලටම වී\nඔබේ ඇස් අස්සේ මං මාව දැක්කේ\nසංසාරයම මම නුඹගෙ වී\nතව ඈතින් ඉඳන් ඉන්නවද රත්තරන්\nසංසාරයම මෙය මට නොදී\n\nවස්සානයට අත වනලා ඉමු මග බලන්\nඋද්යානයක කෙළවරට වී\nඔබ ඈතින් ඉඳන් ඉන්නවද රත්තරන්\nමං ගාවින්ම උණුහුම නොදී\n\nවැට කඩුලු අස්සේ මල් පිපුණු බිස්සේ\nඅපි හැංගෙමුද උණුහුමට වී\nසමනල්ලු පස්සේ දුව පැනපු කාලේ\nදැන් මට දෙන්න නුඹ මගේම වී\nඇයි ඈතින් ඉඳන් ඔය තරම් රත්තරං\nමං ආවොත්ද නුඹ මට \n\nවස්සානයට අත වනලා ඉමු මග බලන්\nඋද්යානයක කෙළවරට වී\nඔබ ඈතින් ඉඳන් ඉන්නවද රත්තරන්\nමං ගාවින්ම උණුහුම නොදී\n\nවස්සානයට අත වනලා ඉමු මග බලන්\nඋද්යානයක කෙළවරට වී\nඔබ ඈතින් ඉඳන් ඉන්නෙ ඇයි රත්තරන්\nමං ගාවින්ම උණුහුම නොදී",
+    "lyricist": "එස්.මාදව",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "උමාරා සිංහවංශ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/wassanayata-atha-wanala-umara-sinhawansa",
         "spotify": "https://open.spotify.com/album/0S5C0f0BshHmPuLvX2VyHJ?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/68fb79c0-bd0a-11e9-b8dc-51631d9fe7c1/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "රත්තරන්",
+            "meaning": "නුඹ මට විශේෂ කෙනෙක්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "ආදරනීය කෙටි නම",
+            "target_domain": "විශේෂත්වය"
+        },
+        {
+            "lyrics_part": "සංසාරයම මම නුඹගෙ වී",
+            "meaning": "නුබටම පේවීල",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සංසාරයම",
+            "target_domain": "පේවීලා"
         }
     ]
 }
