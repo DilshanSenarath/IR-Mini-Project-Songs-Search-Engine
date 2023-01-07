@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "දැනෙනා තුරු මා ඉන්නද නුඹ ගාවින්",
+    "released_year": "2020",
+    "album": "දැනෙනා තුරු මා",
+    "genre": "ඉන්දීය ඉන්ඩි",
+    "lyrics": "දැනෙනා තුරු මා ඉන්නද නුඹ ගාවින්\nමියෙනා දිනයේ කඳුලක රස විඳිමින්\nනුඹගේ පහසේ රහසක් වුණු මාගේ\nනොලියූ කවියේ පද එකිනෙක බිඳුනේ\n\nදැනෙනා සෙනෙහේ අයිතිය නැති මා\nකවුරුන්දෝ කියලා ඇසුවා\nඅපගේ වරදේ ගැඹුරක් දැනෙනා\nදවසේ මොහොතක් මං සිතුවා\n\nනිල් පාටින් හැඩ මේ අහස\nආදරේ දුක වින්දා ද\nමා ගාවින් උන් ඒ හීන\nපාවෙලා යනවා දුර ඈත\n\nනැවත හමු නොවන සංසාර ගීයේ\nහිතක තනි මකනවා\nඅපගේ ප්රේමයට පසු වදන ලිව්වේ\nකවුදෝ අපි සොයනවා\n\nදැනෙනා තුරු මා ඉන්නද නුඹ ගාවින්\n\nවෙන්වී යන බව දැන දැනම\nතාම හිත ඉල්ලන ඔය දෑත\nඅහස ගුගුරා කිව් ඒ පුවත\nතේරුනා මට නම් කල් ඇතිව\n\nනැවත හමු නොවන සංසාර ගීයේ\nහිතක තනි මකනවා\nඅපගේ ප්රේමයට පසු වදන ලිව්වේ\nකවුදෝ අපි සොයනවා\n\nදැනෙනා තුරු මා ඉන්නද නුඹ ගාවින්",
+    "lyricist": "දිනේෂ් ගමගේ",
+    "musician": "දිනේෂ් ගමගේ",
+    "singer": "කාංචනා අනුරාධි, දිනේෂ් ගමගේ",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/danena-thuru-ma-hiru-mega-blast-dinesh-gamage",
+        "spotify": "https://open.spotify.com/track/4gugg1KcEy66ENXDj7lwPb?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/danena-thuru-maa-bakes-by-music-oven/1593532414?i=1593532415"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=5EzBFudsqRY",
+    "download": "https://songhub.lk/song/5c1c9834-f48a-4828-8ff3-67c20266f5c4/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "නොලියූ කවියේ",
+            "meaning": "සාරථක නොවූ ආදර සම්බන්දය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "නොලියූ කවිය",
+            "target_domain": "සාරථක නොවූ ආදරය"
+        },
+        {
+            "lyrics_part": "පසු වදන",
+            "meaning": "නිම වීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පසු වදන",
+            "target_domain": "අවසානය"
+        }
+    ]
+}

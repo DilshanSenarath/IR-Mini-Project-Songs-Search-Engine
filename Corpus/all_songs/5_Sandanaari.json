@@ -1,1 +1,47 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "සඳනාරී",
+    "released_year": "2018",
+    "album": "සඳනාරී",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "හුස්මේ සැමදා රැඳුනා\nසඳනාරී උපමා මැවුනා\nවැස්සේ සිතුසේ තෙමුනා\nකිඳුරාවී මනසේ ඇඳුනා\n\nනෙතු යාවී බැඳීලා සදා,\nහීන ගානේ රැයේහී පවා\nසඳසේයා වතේහී මවා,\nපිනි සීතේ දැනේවී කතා\n\nසුසුම් අංශු පාසා සුපෙම්වන්ත ආශා\nරෑක මදනල ගවසා\nහැඟුම් රංචු වීලා රැයේ පින්න පීරා\nමීන ඇසිපිය සලලා\nසිතේ හැඟුම කොඳුරා සදා මටම ලැබෙනා නාරී,\nසදා මාගෙ වීලා\n\nනෙතු යාවී බැඳීලා සදා,\nහීන ගානේ රැයේහී පවා\nසඳසේයා වතේහී මවා,\nපිනි සීතේ දැනේවී කතා\n\nරැඳී ඉන්න මාහා සුපෙම් බැල්ම පාලා\nසේද රතඳර මුමුනා\nරැයේ නින්දෙ පායා මවා දුන්නු සේයා\nදෑත සසරෙම අමුනා\nසිතේ හැඟුම කොඳුරා සදා මටම ලැබෙනා නාරී,\nසදා මාගෙ වීලා\n\nනෙතු යාවී බැඳීලා සදා,\nහීන ගානේ රැයේහී පවා\nසඳසේයා වතේහී මවා,\nපිනි සීතේ දැනේවී කතා\n\nහුස්මේ සැමදා රැඳුනා\nසඳනාරී උපමා මැවුනා\nවැස්සේ සිතුසේ තෙමුනා\nකිඳුරාවී මනසේ ඇඳුනා\n\nනෙතු යාවී බැඳීලා සදා,\nහීන ගානේ රැයේහී පවා\nසඳසේයා වතේහී මවා,\nපිනි සීතේ දැනේවී කතා",
+    "lyricist": "ෂෙහාන් ගලහිටියාව",
+    "musician": "යසස් මැදගෙදර",
+    "singer": "හර්ෂ විතානගේ",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/karoke-song/husme-samada-randuna-sandanari-karaoke-mp3",
+        "spotify": "https://open.spotify.com/track/4NEF72vI7ZmlTU7qjPoSvZ?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/sandanaari/1391365633?i=1391365640"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=HhoQC1MRW0Y",
+    "download": "https://songhub.lk/karoke/download/a7bc1770-3d97-11ea-878b-070cb8a429be%29%29",
+    "metaphor": [
+        {
+            "lyrics_part": "සඳනාරී",
+            "meaning": "ලස්සන ගැහැනු කෙනෙකු",
+            "type": "සම්මත රූපකය",
+            "source_domain": "සඳ",
+            "target_domain": "ගැහැනු කෙනෙක්"
+        },
+        {
+            "lyrics_part": "කිඳුරාවී",
+            "meaning": "ලස්සන ගැහැනු කෙනෙකු",
+            "type": "සම්මත රූපකය",
+            "source_domain": "කිඳුරිය",
+            "target_domain": "ගැහැනු කෙනෙක්"
+        },
+        {
+            "lyrics_part": "සඳසේයා",
+            "meaning": "ලස්සන",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සඳ",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "සේද රතඳර",
+            "meaning": "ප්‍රසන්න වදන්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "රතඳර",
+            "target_domain": "වදන්"
+        }
+    ]
+}

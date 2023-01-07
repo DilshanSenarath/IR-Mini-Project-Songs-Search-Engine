@@ -1,1 +1,54 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "නිසංසල සඳක්",
+    "released_year": "2020",
+    "album": "කැසට් එක (සජීවී)",
+    "genre": "ඉන්දියානු ජන",
+    "lyrics": "නිසංසල සඳක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්\n\nනිසංසල සඳක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්\n\nහමුවෙලා හවස දොළ දෙණියේ කුඹුර ළඟ\nඔබ කතා කළා රන් මැණිකේ කියා මට\nමම මුතු මැණිකේ\nඔබට විතරම විතරයි රන් මැණිකේ\n\nනිසංසල සඳක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්\n\nනිසංසල සඳක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්\n\nපීදිලා දිලෙන ඔය රන්වන් කරල් දැක\nඅම්මලා වුනත් විරසක වෙනවාද හෙට\nසුදු කරල් එපා\nඔබගෙයි මගෙයි පෙම් කෙතට\n\nනිසංසල සදක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්\n\nනිසංසල සදක්\nපැතුම් මල් ගොඩක්\nසුපෙම්බර හදක් ළඟ සිත\nනැවතෙනා හැඩක්",
+    "lyricist": "ශාන්ත ජයලත් තිසේර",
+    "musician": "ශාන්ත ජයලත් තිසේර",
+    "singer": "ශෂිකා නිසංසලා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/nisansala-sandak-shashika-nisansala",
+        "spotify": "https://open.spotify.com/track/0bXPZJjAfn5lEmaTrTmKtj?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/nisansala-sandak-live/1523726758?i=1523726762"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=N2yGQysEUr8",
+    "download": "https://songhub.lk/song/675aa6c0-bd0a-11e9-8656-e3bbf54d8219/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "නිසංසල සඳක්",
+            "meaning": "අහින්සක ලස්සන ගැහුනු කෙනෙක්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "සඳ",
+            "target_domain": "ගැහුනු කෙනෙක්"
+        },
+        {
+            "lyrics_part": "පැතුම් මල්",
+            "meaning": "අහින්සක ප්‍රාර්ථනාවන්",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "මල්",
+            "target_domain": "ප්‍රාර්ථනාවන්"
+        },
+        {
+            "lyrics_part": "ඔබට විතරම විතරයි රන් මැණිකේ",
+            "meaning": "නුඹ මට විශේෂ කෙනෙක්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ආදරනීය කෙටි නම",
+            "target_domain": "විශේෂත්වය"
+        },
+        {
+            "lyrics_part": "පීදිලා දිලෙන ඔය රන්වන් කරල් දැක",
+            "meaning": "ආදර සම්බන්දය සාර්ථක වෙලා",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "රන්වන් කරල් පැසුනු කෙතක්",
+            "target_domain": "සාර්ථකත්වය"
+        },
+        {
+            "lyrics_part": "සුදු කරල් එපා",
+            "meaning": "නරකක් සිදු වෙන්න එපා",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "නරක් උනු කරල්",
+            "target_domain": "නපුරක් සිදුවීම"
+        }
+    ]
+}

@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "සීත මාරුතේ",
+    "released_year": "2019",
+    "album": "අන්ප්ලග්ඩ්",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍",
+    "lyrics": "සීත මාරුතේ\nවෙලෙමින් ඇස් දිහා බලන්\nඔබ මට ආදරේ කියූ\nමතකය හීනයක් වගේ\nඈත මීදුමේ දිදුලන පුන් සඳක් වගේ\nඑළියයි ඒ හැඟුම් හිතේ\nඔබමයි ජීවිතේ මගේ\n\nදෑලේ ගඟුලැල්ලක් සේ මා සීතයි හිත බෝමා\nදෝරේ යයි සිතුවිලි සේනා ආදරයෙන් පෙඟිලා\nදෑලේ ගඟුලැල්ලක් සේ මා සීතයි හිත බෝමා\nදෝරේ යයි සිතුවිලි සේනා ආදරයෙන් පෙඟිලා\nජීවිතයේ සතුටයි මා දුටුවේ\nසාගරයේ ගැඹුරයි මේ හැඟුමේ\n\nසීත මාරුතේ\nවෙලෙමින් ඇස් දිහා බලන්\nඔබ මට ආදරේ කියූ\nමතකය හීනයක් වගේ\nඈත මීදුමේ දිදුලන පුන් සඳක් වගේ\nඑළියයි ඒ හැඟුම් හිතේ\nඔබමයි ජීවිතේ මගේ\n\nයහනේ තනි යහනේ පේනා හීනෙන් ඉඟිපානා\nරෑ තුන්යම ඔය ඇස් මවනා මා මුසපත් කරනා\nයහනේ තනි යහනේ පේනා හීනෙන් ඉඟිපානා\nරෑ තුන්යම ඔය ඇස් මවනා මා මුසපත් කරනා\nආදරයේ මිහිරෙන් මා නිවුණේ\nඒ ඇසුරේ අලුතින් මා ඉපිදේ\n\nසීත මාරුතේ\nවෙලෙමින් ඇස් දිහා බලන්\nඔබ මට ආදරේ කියූ\nමතකය හීනයක් වගේ\nඈත මීදුමේ දිදුලන පුන් සඳක් වගේ\nඑළියයි ඒ හැඟුම් හිතේ\nඔබමයි ජීවිතේ මගේ\nඔබමයි ජීවිතේ මගේ",
+    "lyricist": "නිලාර් එන් කසිම්",
+    "musician": "අමිත් ගුරුලවෙල",
+    "singer": "රුවන් හෙට්ටිආරච්චි",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/seetha-maruthe-welemin-ruwan-hettiarachchi",
+        "spotify": "https://open.spotify.com/track/5afrnDQVewFCgPyDDD4mEt?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/seetha-maruthe/1479718709?i=1479718723"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=4xCh1T4jCNM",
+    "download": "https://songhub.lk/song/674fd260-bd0a-11e9-8102-93538ade91d9/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "සීත මාරුතේ",
+            "meaning": "සිතුවිලි කුණාටුවේ",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මාරුතය",
+            "target_domain": "ගොඩාක්"
+        },
+        {
+            "lyrics_part": "ඈත මීදුමේ දිදුලන පුන් සඳක් වගේ",
+            "meaning": "ඇය ලස්සන බව කියැවීම",
+            "type": "සම්මත රූපකය",
+            "source_domain": "පුන් සඳක්",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "සාගරයේ ගැඹුරයි",
+            "meaning": "ඉතා විශාලයි",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "සාගරය",
+            "target_domain": "විශාලත්වය"
+        }
+    ]
+}
