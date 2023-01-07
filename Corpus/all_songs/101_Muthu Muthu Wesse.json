@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "මුතු මුතු වැස්සේ",
+    "released_year": "2019",
+    "album": "සෝමසිරි මැදගෙදර හොඳම ගීත",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "මුතු මුතු වැස්සේ\nපට කුඩයේ තනිවෙලා\nසුදු මුතු මැණිකේ\nකොහි යන්නේ සැරසිලා\nතෙමි තෙමි වැස්සේ\nඇයි ඉන්නේ හිනැහිලා\nයමු අපි හනිකේ\nඑක කුඩයේ සැඟවිලා\n\nපාළුවේ වැහි බීරමේ\nතනිවී බලා හිඳින්නේ\nකාටදෝ\nපවසන්නකෝ\nඔබගේ සෙනෙහෙ පුදන්නේ\nමා ලැබූ සිත් වේදනා\nඇයගේ ලොවේ පෙරදිනේ\nනෑ මැකී මතකෙන් මගේ\nඑය මා සිතේ දරන්නේ\n\nමුතු මුතු වැස්සේ\nපට කුඩයේ තනිවෙලා\nසුදු මුතු මැණිකේ\nකොහි යන්නේ සැරසිලා\nතෙමි තෙමි වැස්සේ\nඇයි ඉන්නේ හිනැහිලා\nයමු අපි හනිකේ\nඑක කුඩයේ සැඟවිලා\n\nජීවිතේ හැම කාලයේ\nඔබගේ ලොවේ රැඳෙන්නේ\nරෑ දිවා දුක හා සැපේ\nහිඳිමි පලා නොයන්නේ\nමේ ලෙසේ තනි ජීවිතේ\nසැමදා ගෙවා පතන්නේ\nආදරේ පිළිගන්න බෑ\nයලි මා මුලා නොවන්නේ\n\nමුතු මුතු වැස්සේ\nපට කුඩයේ තනිවෙලා\nසුදු මුතු මැණිකේ\nකොහි යන්නේ සැරසිලා\nතෙමි තෙමි වැස්සේ\nඇයි ඉන්නේ හිනැහිලා\nයමු අපි හනිකේ\nඑක කුඩයේ සැඟවිලා",
+    "lyricist": "බන්දුල ජයසිංහ",
+    "musician": "සරත් ද සිල්වා",
+    "singer": "චන්ද්‍රලේඛා පෙරේරා, සෝමසිරි මැදගෙදර",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/muthu-muthu-wasse-pata-kudaye-thani-wela-somasiri-madagedara-chandraleka-perera",
+        "spotify": "",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=4I0PxRn4x6A",
+    "download": "https://songhub.lk/song/632b2cc0-bd0a-11e9-8f9e-cbf737f8d563/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "වැහි බීරමේ",
+            "meaning": "අධික වර්ෂාව",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "වැහි බීරමේ",
+            "target_domain": "අධික වර්ෂාව"
+        },
+        {
+            "lyrics_part": "ඔබගේ ලොවේ",
+            "meaning": "ඔබගේ ජීවිතයේ කොටසක් වී",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ඔබගේ ලොවේ",
+            "target_domain": "ඔබගේ ජීවිතයේ"
+        }
+    ]
+}

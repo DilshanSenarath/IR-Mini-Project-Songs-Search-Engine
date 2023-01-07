@@ -1,0 +1,33 @@
+{
+    "title": "හිමි නැති සෙනෙහේ",
+    "released_year": "2019",
+    "album": "හිමි නැති සෙනෙහේ",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු පොප්",
+    "lyrics": "හිමි නැති සෙනෙහේ\nහදවත රන්දා\nමට දුක දැනුනා\nඔබ සිහිවීලා\nමසිතේ පුරා\nසතපා ඔයා\nනොලැබේ කියා\nසිතුනා\nහිමි නැති සෙනෙහේ\nහදවත රන්දා\n\nඅතැගිලි නොබැඳී\nසිත් අප එක්වී\nමියෙන තුරා ලංවී හිදිමූ\nනොදැනී කවුරුත්\nහදවත සංකා\nඔබ වෙනුවෙන් මා\nරැක ගෙන තිබුනූ\nඔබ වෙනුවෙන් මා\nරැක ගෙන තිබුනූ\n\nහිමි නැති සෙනෙහේ\nහදවත රන්දා\nමට දුක දැනුනා\nඔබ සිහිවීලා\nමසිතේ පුරා\nසතපා ඔයා\nනොලැබේ කියා\nසිතුනා\nහිමි නැති සෙනෙහේ\nහදවත රන්දා\n\nඉරණම විසඳී\nයලි අප හමුවී\nදවසක් ඒවී\nඔබ මගේ වී\nඔබගේ සතුටයි\nමට නන් ඕනේ\nඒ ටික ඇති\nමියැදෙන්න කලින්\nඒ ටික ඇති\nමියැදෙන්න කලින්\n\nහිමි නැති සෙනෙහේ\nහදවත රන්දා\nමට දුක දැනුනා\nඔබ සිහිවීලා\nමසිතේ පුරා\nසතපා ඔයා\nනොලැබේ කියා\nසිතුනා\nහිමි නැති සෙනෙහේ\nහදවත රන්දා",
+    "lyricist": "සත්සර කසුන් පතිරණ",
+    "musician": "දුලිප් මිරැන්ඩෝ",
+    "singer": "අසංග ප්‍රියමන්ත පීරිස්",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/karoke-song/himi-nathi-senehe-hadawatha-randa-karaoke-mp3",
+        "spotify": "https://open.spotify.com/track/49b8wM4envSN0itqDT5gWA?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/himi-nathi-senehe/1479551460?i=1479551461"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=ooE2EvC2iKM",
+    "download": "https://songhub.lk/karoke/download/bfb11270-2beb-11ec-b4a7-a3ebfea145fa%29%29",
+    "metaphor": [
+        {
+            "lyrics_part": "මසිතේ පුරා\nසතපා ඔයා",
+            "meaning": "මුලු හිතින්ම සිතන්නේ ඔබ ගැන පමනයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මසිතේ පුරා සතපා",
+            "target_domain": "මුලු හිතින්ම සිතන්නේ"
+        },
+        {
+            "lyrics_part": "අතැගිලි නොබැඳී",
+            "meaning": "විවාහ නොවී",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අතැගිලි බැඳීම",
+            "target_domain": "විවාහය"
+        }
+    ]
+}

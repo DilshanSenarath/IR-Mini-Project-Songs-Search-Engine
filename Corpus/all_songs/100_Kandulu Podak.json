@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "කඳුළු පොදක් ඔබ දෑසේ",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත, වෙළුම. 20",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්",
+    "lyrics": "කඳුළු පොදක් ඔබ දෑසේ\nනොසලනු මැන මා වෙනුවෙන්\nසංසාරේ නෙක වාරේ\nමා වේලුනා ඔබ සුරතේ\n\nකඳුළු පොදක් ඔබ දෑසේ\nනොසලනු මැන මා වෙනුවෙන්\nසංසාරේ නෙක වාරේ\nමා වේලුනා ඔබ සුරතේ\n\nහද මත් කළ මදිරාවේ\nඔබ සතපා හැම යාමේ\nදිවිගමනේ මිණි පහනේ\nසේසත වී සෙනේහේ\nසේසත වී සෙනේහේ\n\nකඳුළු පොදක් ඔබ දෑසේ\nනොසලනු මැන මා වෙනුවෙන්\nසංසාරේ නෙක වාරේ\nමා වේලුනා ඔබ සුරතේ\n\nඅත්වැල වී දිවි දෑලේ\nසැනහී එකම කැදැල්ලේ\nපිපි කුසුමයි සිත් යායේ\nමන්මත් වී සුගන්දේ\nමන්මත් වී සුගන්දේ\n\nකඳුළු පොදක් ඔබ දෑසේ\nනොසලනු මැන මා වෙනුවෙන්\nසංසාරේ නෙක වාරේ\nමා වේලුනා ඔබ සුරතේ\n\nකඳුළු පොදක් ඔබ දෑසේ\nනොසලනු මැන මා වෙනුවෙන්\nසංසාරේ නෙක වාරේ\nමා වේලුනා ඔබ සුරතේ",
+    "lyricist": "බෝධි අමරසිංහ",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "චන්ද්‍රලේකා පෙරේරා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/kandulu-podak-oba-dase-chandraleka-perera",
+        "spotify": "https://open.spotify.com/track/3xaU63fpIhoM6TPbP8zK7h?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/kandulu-podak-oba-dase-feat-chandralekha-perera/1633556952?i=1633556955"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=rc7ZAznVvOg",
+    "download": "https://songhub.lk/song/632943d0-bd0a-11e9-866e-998ed89f3938/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "මදිරාවේ",
+            "meaning": "හදවතේ සෙනෙහේ තව තවත් වැඩි කිරීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මත්වතුර",
+            "target_domain": "වැඩි කිරීම"
+        },
+        {
+            "lyrics_part": "අත්වැල වී දිවි දෑලේ",
+            "meaning": "සැපේදි මෙන් දුකේදිත් ලගින් සිටීමි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අත්වැල",
+            "target_domain": "එක්ව නැගී සිටීම"
+        }
+    ]
+}

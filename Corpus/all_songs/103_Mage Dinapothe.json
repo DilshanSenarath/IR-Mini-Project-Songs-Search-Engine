@@ -1,0 +1,26 @@
+{
+    "title": "මගේ දිනපොතේහී අද රෑ ලියන්නේ",
+    "released_year": "2001",
+    "album": "නීල්-ඒ නුවන්",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍ය, ඉන්දියානු පොප්, භක්තිමත්",
+    "lyrics": "මගේ දිනපොතේහී අද රෑ ලියන්නේ\nමගේ දිනපොතේහී අද රෑ ලියන්නේ\nඅප පෙම් කතාවේ අවසානයයි\nඔබ නේන දා හෙට මා මනමාලියයි\n\nමගේ දිනපොතේහී අද රෑ ලියන්නේ...\n\nකවදාක හෝ එක්තැන් වෙලා\nසුව හා සුසුම් සමසේ දරා\nඅත් වැල් බැඳන් යමු ජීවිතේ\nඒ කී වදන් බොල් හීනෙකී\n\nමගේ දිනපොතේහී අද රෑ ලියන්නේ\nඅප පෙම් කතාවේ අවසානයයි\nඔබ නේන දා හෙට මා මනමාලියයි\nමගේ දිනපොතේහී අද රෑ ලියන්නේ...\n\nපාසල් සමේ අපි දෙන්නගේ\nනම් කුරුටු ගෑ කඩදාසි ඒ\nගිණි අවුළුවා නටඹුන් පෙමින්\nඅපි වෙන්වෙමූ දෛවේ ලෙසින්\n\nමගේ දිනපොතේහී අද රෑ ලියන්නේ\nමගේ දිනපොතේහී අද රෑ ලියන්නේ\nඅප පෙම් කතාවේ අවසානයයි\nඔබ නේන දා හෙට මා මනමාලියයි\n\nමගේ දිනපොතේහී අද රෑ ලියන්නේ...",
+    "lyricist": "අජන්තා රණසිංහ",
+    "musician": "සරත් දසනායක",
+    "singer": "චන්ද්‍රලේකා පෙරේරා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/mage-dinapothe-ada-raa-liyanne-chandraleka-perera",
+        "spotify": "https://open.spotify.com/track/6waKuG68B8CsaRWBMumyzo?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/mage-dinapothe/1440282957?i=1440282966"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=fbpPftww4Tg",
+    "download": "https://songhub.lk/song/6329c380-bd0a-11e9-8c24-e5bfe35d116d/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "බොල් හීනෙකී",
+            "meaning": "කවදාවත් ඉටු නොවන හීනයකි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "බොල්",
+            "target_domain": "සිදු නොවෙන දෙයක්"
+        }
+    ]
+}

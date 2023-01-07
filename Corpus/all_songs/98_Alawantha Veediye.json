@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "ආලවන්ත වීදියේ",
+    "released_year": "2001",
+    "album": "සෙනෙහයේ නගරය",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "ආලවන්ත වීදියේ...\nමේ ආලවන්ත වීදියේ...\nනෙක විසිතුරු සල්පිල් වල...\nනෙක විසිතුරු සල්පිල් වල...\nසිහින තියන්නේ...\nඒ සිහින වලින් වඩා සොදුරු\nසිහින සොයා වීදි පුරා\nයන්න හිතෙන්නේ.\nයන්න හිතෙන්නේ.\n\nමේ අලවන්ත වීදියේ...\nසොදුරු වුනත් .\nපාට හීන. වැඩි මිළ නෑ...\nහරි ලාබෙට ගන්න තියන්නේ...\nපරිස්සමින්.\nනොගත්තොතින්...\nසිහින බිදෙන්නේ...\nමේ ආලවන්ත වීදියේ.\n\nමේ ආලවන්ත වීදියේ.\nනුරා ළදුන්...\nනෙතග බැලුම්...\nවැඩි මිළ නෑ...\nඅත මානෙම ගන්න තියන්නේ...\nපරිස්සමෙන් නොගත්තොතින්...\nදෑස රිදෙන්නේ...\nමේ ආලවන්ත වීදියේ.\nමේ ආලවන්ත වීදියේ.\nනෙක විසිතුරු සල්පිල් වල...\nනෙක විසිතුරු සල්පිල් වල...\nසිහින තියන්නේ...\nඒ සිහින වලින් වඩා සොදුරු\nසිහින සොයා වීදි පුරා\nයන්න හිතෙන්නේ.\nයන්න හිතෙන්නේ.",
+    "lyricist": "යසනාත් ධම්මික බණ්ඩාර",
+    "musician": "සුරේෂ් මල්ලියද්ද",
+    "singer": "අමරසිරි පීරිස්",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/alawantha-widiye-me-alawantha-widiye-amarasiri-peiris",
+        "spotify": "https://open.spotify.com/track/6I6qERmzVaGcqeYpGV0nit?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/alawantha-veediye-feat-malani-bulathsinhala-nirosha/1557339841?i=1557340128"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=0WBVeD_H3EI",
+    "download": "https://songhub.lk/song/63902f20-bd0a-11e9-bb3e-63316186c988/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "ආලවන්ත වීදියේ",
+            "meaning": "ගණිකාවන් සිටින වීදීය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ආලවන්ත",
+            "target_domain": "ගණිකාවන්"
+        },
+        {
+            "lyrics_part": "සිහින",
+            "meaning": "ආශාවන්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සිහින",
+            "target_domain": "ආශාවන්"
+        },
+        {
+            "lyrics_part": "පාට හීන",
+            "meaning": "මිල වැඩි ආශාවන්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පාට",
+            "target_domain": "මිල වැඩි"
+        }
+    ]
+}

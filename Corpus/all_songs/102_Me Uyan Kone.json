@@ -1,0 +1,33 @@
+{
+    "title": "මේ උයන්කොනේ නිල් දිය රැඳුණු විල් තෙරේ",
+    "released_year": "2001",
+    "album": "නීල්-ඒ නුවන්",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍ය, ඉන්දියානු පොප්, භක්තිමත්",
+    "lyrics": "මේ උයන්කොනේ නිල් දිය රැඳුණු විල් තෙරේ\nඇලේ දොලේ හඬ ඇසුනේ අපේ ආදරේ\nසීත හිමපෙතේ සීතල දැවටෙනා වෙලේ\nනුවන් නුදුටු රුව ඇඳුනා සිහින් සීතලේ\n\nසිනා රොදක් නැතේ\nකඳුල මා වටා ඇතේ\nවලා පෙළෙන් එබී\nතනිව හඳ බලා හිඳී\nසහන සතුට ඔබෙයි මගෙයි හදක දුර නොදී\n\nමේ උයන්කොනේ නිල් දිය රැඳුණු විල් තෙරේ\nඇලේ දොලේ හඬ ඇසුනේ අපේ ආදරේ\nසීත හිමපෙතේ සීතල දැවටෙනා වෙලේ\nනුවන් නුදුටු රුව ඇඳුනා සිහින් සීතලේ\n\nදෙමාපියන් බැඳි\nපවුරු අප වටා ඇතේ\nපියා සලන්නෙමි\nදිනෙක ඔබ සොයා එමි\nපවන් සලන ලෙසින් සිතක ගිමන් නිවනෙමි\n\nමේ උයන්කොනේ නිල් දිය රැඳුණු විල් තෙරේ\nඇලේ දොලේ හඬ ඇසුනේ අපේ ආදරේ\nසීත හිමපෙතේ සීතල දැවටෙනා වෙලේ\nනුවන් නුදුටු රුව ඇඳුනා සිහින් සීතලේ",
+    "lyricist": "ප්‍රියානන්ද විජේසුන්දර",
+    "musician": "සමන් කුඹුකගේ",
+    "singer": "චන්ද්‍රලේකා පෙරේරා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/me-uyan-kone-chandraleka-perera",
+        "spotify": "https://open.spotify.com/track/0E6ebI8nFvnbiRcsLcwbq1?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/me-uyan-kone/1553042513?i=1553043131"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=uDauMcReuxM",
+    "download": "https://songhub.lk/song/632a9ed0-bd0a-11e9-b3d4-4b93aa97da0a/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "පවුරු අප වටා ඇතේ",
+            "meaning": "අපගේ එකතු වීමට බාධක රැසක් ඇත",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පවුරු",
+            "target_domain": "බාධක"
+        },
+        {
+            "lyrics_part": "පියා සලන්නෙමි",
+            "meaning": "සියලු බාධක බිද එන්නෙමි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පියා සලනවා",
+            "target_domain": "බාධක බිදීම"
+        }
+    ]
+}
