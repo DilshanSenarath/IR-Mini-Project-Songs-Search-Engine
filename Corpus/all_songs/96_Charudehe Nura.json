@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "චාරු දේහේ නුරා",
+    "released_year": "2001",
+    "album": "ස්නේහයේ නගරය",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "චාරු දේහේ නුරා මා දෑසේ මැවේ\nරාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ\nචාරු දේහේ නුරා මා දෑසේ මැවේ\nරාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ\nචාරු දේහේ නුරා...\n\nපිහින පීනා රසෝඝේ\nසාරාගී විලේ රාත්රී යාමයේ\nපිහින පීනා රසෝඝේ\nසාරාගී විලේ රාත්රී යාමයේ\nඈගේ දෑසේ ප්රබෝධේ\nනුරා ගී නැගේ\nජීවිතේ යෞවනේ\nප්රේමයේ මීවනේ\n\nචාරු දේහේ නුරා මා දෑසේ මැවේ\nරාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ\nචාරු දේහේ නුරා...\n\nසීත මිහිදුම් වළාවෝ\nවෙලීලා සදේ තාරකාවේ\nසීත මිහිදුම් වළාවෝ\nවෙලීලා සදේ තාරකාවේ\nමිහිතලාවේ තුසීතේ\nමැවේ මා හදේ\nජීවිතේ යෞවනේ\nප්රේමයේ මී වනේ\n\nචාරු දේහේ නුරා මා දෑසේ මැවේ\nරාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ\nචාරු දේහේ නුරා මා දෑසේ මැවේ\nරාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ\nචාරු දේහේ නුරා...",
+    "lyricist": "දම්මික බණ්ඩාර",
     "musician": "අමරසිරි පීරිස්",
-    "singer": "",
+    "singer": "අමරසිරි පීරිස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/charu-dehe-nura-amarasiri-peiris",
         "spotify": "https://open.spotify.com/track/51Uqjjhm8jAXGjaWdKj9dH?autoplay=true",
@@ -16,11 +16,25 @@
     "download": "https://songhub.lk/song/63f912c0-bd0a-11e9-9ce2-6d0f0f07d3ef/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "චාරු දේහේ නුරා මා දෑසේ මැවේ",
+            "meaning": "ලස්සන මතකයට එන බව",
+            "type": "සම්මත රූපකය",
+            "source_domain": "චාරු",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "සාරාගී විලේ රාත්රී යාමයේ",
+            "meaning": "රාතියේදී ඇද සරාගී වන බව",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "විල",
+            "target_domain": "ඇද"
+        },
+        {
+            "lyrics_part": "රාත්රියේ රෑ සඳේ ඈ සිනා ශ්රීය දේ",
+            "meaning": "ඇයගේ සිනහව සිරියාව ගෙන එන බව",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "රෑ සඳේ",
+            "target_domain": "ඇයගේ මුහුණ"
         }
     ]
 }

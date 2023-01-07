@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ඔබට වරම් නැති",
+    "released_year": "2021",
+    "album": "නෙතට උලෙලක්",
     "genre": "ඉන්දීය ඉන්ඩි",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ඔබට වරම් නැති\nමටද වරම් නැති\nසෙනෙහස කොතැනද\nසැඟව ගියේ\nඉවත ගලා ගිය\nකඳුලක දිය වී\nප්රථම ප්රේමයයි බොඳව ගියේ\n\nඔබට වරම් නැති\nමටද වරම් නැති\nසෙනෙහස කොතැනද\nසැඟව ගියේ\nඉවත ගලා ගිය\nකඳුලක දිය වී\nප්රථම ප්රේමයයි බොඳව ගියේ\n\nඔහුට පුදන්නට පූජාසනයේ\nනොකිළිටි මල්\nපිපුණිද ලඳුනේ\nපෙති ගිලිහී ගිය\nපරසතු කුසුමක\nසුවඳ කොහේ\nකොතැනද රැදුනේ\n\nඔබට වරම් නැති\nමටද වරම් නැති\nසෙනෙහස කොතැනද\nසැඟව ගියේ\nඉවත ගලා ගිය\nකඳුලක දිය වී\nප්රථම ප්රේමයයි බොඳව ගියේ\n\nආ මඟ වැරදී\nඔහුද ඔබද මා\nදෛවයේ තුන්මංසල හමුවේ\nබලා හිඳිනු මිස\nහඬා වැටෙන්නට\nකඳුලක් නෑ දෙනුවන පිපුනේ\n\nඔබට වරම් නැති\nමටද වරම් නැති\nසෙනෙහස කොතැනද\nසැඟව ගියේ\nඉවත ගලා ගිය\nකඳුලක දිය වී\nප්රථම ප්රේමයයි බොඳව ගියේ",
+    "lyricist": "රංජිත් රූබසිංහ",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "කරුණාරත්න දිවුල්ගනේ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/obata-waram-nathi-karunarathna-divulgane",
         "spotify": "https://open.spotify.com/track/6yYW7kv0YttrHD4NWB8nRh?autoplay=true",
@@ -16,11 +16,32 @@
     "download": "https://songhub.lk/song/6443b6a4-38d8-4f61-b196-14dd94b5cc06/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "සෙනෙහස කොතැනද\nසැඟව ගියේ",
+            "meaning": "පෙම්වතිය අතහැර ගොස් ඇති බව",
+            "type": "මිශ්‍ර රූපකය",
+            "source_domain": "සැඟව ගියේ",
+            "target_domain": "අතහැර ගොස්"
+        },
+        {
+            "lyrics_part": "ප්රථම ප්රේමයයි බොඳව ගියේ",
+            "meaning": "කුලුදුල් ප්‍රේමය අවසාන වීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "බොඳව යාම",
+            "target_domain": "නැති වී යාම"
+        },
+        {
+            "lyrics_part": "නොකිළිටි මල්",
+            "meaning": "කන්‍යාවියන්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "මල්",
+            "target_domain": "ගැහැණු ළමයි"
+        },
+        {
+            "lyrics_part": "පෙති ගිලිහී ගිය\nපරසතු කුසුමක",
+            "meaning": "කිලිටි උනු අන්සතු වූ ඇය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පෙති ගිලිහී ගිය",
+            "target_domain": "කිලිටි උනු"
         }
     ]
 }

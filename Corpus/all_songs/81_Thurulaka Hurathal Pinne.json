@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "තුරුලක හුරතල් පින්නේ",
+    "released_year": "2013",
+    "album": "චාමර සළුනාවේ, වෙළුම. 2",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "තුරුලක හුරතල් ඉන්නේ\nකරදර පියමං වෙන්නේ\nමොහොතක සුවය එවෙයි\n\nගත සිත සතුට හොයයි\nඅද මෙතැනයි\n\nහෙට කොතැනද අපි ඉන්නේ\n\nඅද තනිකඩ යහනේ රැය එළිවෙන්නේ\nහෙට සියුමැලි දෑතකි උණුසුම දෙන්නේ\nහිත ඇහැරෙයි\nඇහැ පියවෙයි\nලොව හැංගෙයි\nතුරුලක හුරතල් ඉන්නේ\nකරදර පියමං වෙන්නේ\nමොහොතක සුවය එවෙයි\nගත සිත සතුට හොයයි\nඅද මෙතැනයි\nහෙට කොතැනද අපි ඉන්නේ\nබර බිම තියමින්නේ හුස්මක් ගන්නේ\nතොල අග මී වඩියේ හිත නිදිගන්නේ\nඑක හීනේ\nරැය එළිවෙයි\nලොව ලංවෙයි\nතුරුලක හුරතල් ඉන්නේ\nකරදර පියමං වෙන්නේ\nමොහොතක සුවය එවෙයි\nගත සිත සතුට හොයයි\nඅද මෙතැනයි\nහෙට කොතැනද අපි ඉන්නේ",
+    "lyricist": "කුලරත්න ආරියසිංහ",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "සුනිල් එදිරිසිංහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/thurulaka-hurathal-pinne-sunil-edirisinghe",
         "spotify": "https://open.spotify.com/track/7jQcNNWr2wGiYzsI50wMkd?autoplay=true",
@@ -16,11 +16,25 @@
     "download": "https://songhub.lk/song/66b992a0-bd0a-11e9-a1f9-4b8273cc35ff/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "කරදර පියමං වෙන්නේ",
+            "meaning": "කරදර සෙමෙන් ජිවිතයට එන්නේ",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පියමං වෙන්නේ",
+            "target_domain": "සෙමෙන් එන්නේ"
+        },
+        {
+            "lyrics_part": "හිත ඇහැරෙයි\nඇහැ පියවෙයි\nලොව හැංගෙයි",
+            "meaning": "රාත්‍රිය උදා වීම",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "හිත, ඇහැ",
+            "target_domain": "රාත්‍රිය"
+        },
+        {
+            "lyrics_part": "තොල අග මී වඩියේ හිත නිදිගන්නේ",
+            "meaning": "කුඩා නිවසේ කමරය තුල නිදාගන්නා බව",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "තොල අග මී වඩියේ",
+            "target_domain": "කුඩා නිවසේ කමරය"
         }
     ]
 }

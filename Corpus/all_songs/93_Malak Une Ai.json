@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "මලක් උනේ ඇයි ඔබ මට",
+    "released_year": "2013",
+    "album": "අමරසිරි පීරිස් ගීත",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "මලක් උනේ ඇයි ඔබ මට\nජීවිතයට සුවඳ සලන\nඑනමුදු සිප ගන්නට තහනම්...\n\nවිලක් උනේ ඇයි ඔබ මට\nජීවිතයට සිසිල ඉසින\nදිය දෝතක් බොන්නට තහනම්...\n\nපහන් තාරකාවක් සේ ජීවිතයට මග කීවද...\nඒ එළියෙන් මහද පහන් දල්වනු කෙලෙසින්...\n\nසහන් ගීතිකාවක් සේ ජීවිතයේ ගිම් නිවුවද...\nඒ ගීයේ සොඳුරු වදන් මුමුණනු කෙලෙසින්...",
+    "lyricist": "සමන් අතාවුදහෙට්ටි",
     "musician": "කලණි පෙරේරා",
-    "singer": "",
+    "singer": "අමරසිරි පීරිස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/malak-une-ai-numba-mata-amarasiri-peiris",
         "spotify": "https://open.spotify.com/track/2bH24pDb7v8wI6uWukMesa?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/63fc7b90-bd0a-11e9-b00f-234c45dc6028/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ජීවිතයට සුවඳ සලන",
+            "meaning": "ජීවිතයට සතුට ගෙනෙන",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සුවඳ",
+            "target_domain": "සතුට"
+        },
+        {
+            "lyrics_part": "ජීවිතයට සිසිල ඉසින",
+            "meaning": "ජීවිතයට නිසසල කරන",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සිසිල",
+            "target_domain": "නිසසල"
         }
     ]
 }

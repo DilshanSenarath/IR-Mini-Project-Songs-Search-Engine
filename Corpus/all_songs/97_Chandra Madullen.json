@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "චන්ද්ර මඬුල්ලෙන්",
+    "released_year": "2001",
+    "album": "ස්නේහයේ නගරය",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "චන්ද්ර මඬුල්ලෙන් සඳ රැස් ගලලා\nනිසංසලේ ලොව නිදහස් මොහොතේ\nමේ කුළු දේදුනු තරු දැක ගන්නට\nරෑ පිපිලා කළු රෝසමලක් //\n\nඉසි කෝ වා රැළි මවෙත නොවේවා\nහලාහල විෂෙන් උපන් චේතනා\nඅශාවෙන් මන මෝදු කරද්දී\nරෑ පිපිලා කළු රෝස මලක්\n\nචන්ද්ර මඬුල්ලෙන්...\n\nතෙල බේරිය ගෙඩි පාට දෙතොල්\nපොපියා හස දෙන සුරවමියේ\nමල් ගොමුවේ ගං තෙරෙහි සරද්දී\nරෑ පිපිලා කළු රෝසමලක්\n\nචන්ද්ර මඬුල්ලෙන්... //",
+    "lyricist": "විජේසිරි අමරතුංග",
     "musician": "අමරසිරි පීරිස්",
-    "singer": "",
+    "singer": "අමරසිරි පීරිස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/chandra-madullen-sada-ras-galana-amarasiri-peiris",
         "spotify": "https://open.spotify.com/track/1KWP2CaPZG9RF7kTSOiB9S?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/63ffd380-bd0a-11e9-b611-33c9502a3429/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "චන්ද්ර මඬුල්ලෙන් සඳ රැස් ගලලා",
+            "meaning": "චන්ද්‍ර්‍යා නිසා ආලෝකමත් වන බව",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "සඳ රැස් ගලලා",
+            "target_domain": "ආලෝකය වැටිලා"
         }
     ]
 }

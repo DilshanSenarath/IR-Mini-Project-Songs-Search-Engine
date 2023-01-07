@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "අතිතය සිහිනයක් පමණයි",
+    "released_year": "2013",
+    "album": "අන්ප්ලග්ඩ්",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු ඉන්ඩි",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "අතිතය සිහිනයක් පමණයි\nසෑබෑ සුවදක් නෑ\nඑදා සෙනෙහෙන් නොබැදුනා නම්\nමෙදා වියොවක් නෑ\nඅතිතය සිහිනයක් පමණයි\nසෑබෑ සුවදක් නෑ\nඑදා සෙනෙහෙන් නොබැදුනා නම්\nමෙදා වියොවක් නෑ\n\nතැනූ මන්දිර බිදී වැටුනත්\nනෙතේ කදුලක් නෑ\nසිනහා වෙන්නට වරම් නොලදත්\nහිතේ කිලුටක් නෑ\n\nඅතිතය සිහිනයක් පමණයි\nසෑබෑ සුවදක් නෑ\nඑදා සෙනෙහෙන් නොබැදුනා නම්\nමෙද වියොවක් නෑ\n\nසොබාදහමට නොවන අවනත\nලොවේ කිසිවක් නෑ\nලොවේ පැරදුම මිසක කිසිදා\nලැබූ දිනුමක් නෑ\n\nඅතිතය සිහිනයක් පමණයි\nසෑබෑ සුවදක් නෑ\nඑදා සෙනෙහෙන් නොබැදුනා නම්\nමෙද වියොවක් නෑ",
+    "lyricist": "කරුණාරත්න දිවුල්ගනේ",
     "musician": "උපාලි ජයලත්",
-    "singer": "",
+    "singer": "කරුණාරත්න දිවුල්ගනේ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/athithaya-sihinayak-pamanai-karunarathna-divulgane",
         "spotify": "https://open.spotify.com/track/75Z6YaoG38yFNrCm2S8wOy?autoplay=true",
@@ -16,11 +16,25 @@
     "download": "https://songhub.lk/song/64c448f0-bd0a-11e9-8fab-e99a8ea0b497/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "තැනූ මන්දිර බිදී වැටුනත්",
+            "meaning": "බලාපොරොත්තු නැති වී යාම",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "මන්දිර",
+            "target_domain": "බලාපොරොත්තු"
+        },
+        {
+            "lyrics_part": "නෙතේ කදුලක් නෑ",
+            "meaning": "දුකක් නැ",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "කදුල",
+            "target_domain": "දුක"
+        },
+        {
+            "lyrics_part": "හිතේ කිලුටක් නෑ",
+            "meaning": "හිතේ තරහක් නැති බව",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "කිලුටක්",
+            "target_domain": "තරහව"
         }
     ]
 }

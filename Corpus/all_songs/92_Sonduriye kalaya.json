@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "සොඳුරිය කාලය කොතරම් නපුරුද",
+    "released_year": "2001",
+    "album": "ස්නේහයේ නගරය",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍ය, ගසල්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "සොඳුරිය කාලය කොතරම් නපුරුද\nදිවි හිමියෙන් කදුළැළි පුරවා ගෙන\nරැකගත් ආලය උදුරා ගෙන ගිය\nකාලය කොතරම් නපුරුද සොඳුරිය\n\nපෙරුම් පුරා දුක සේ ගලපා ගත්\nකවිය ඔබම වී නැළවුන යුගයක\nහද රැඳි ඔබ රුව සිහිනෙක වත් නැත\nඒ රුව කොතරම් මිහිරි ද සොඳුරිය\n\nසොඳුරිය කාලය කොතරම් නපුරුද\nදිවි හිමියෙන් කදුළැළි පුරවා ගෙන\nරැකගත් ආලය උදුරා ගෙන ගිය\nකාලය කොතරම් නපුරුද සොඳුරිය\n\nලොවට හොරා විළි ලා බිහි කරගත්\nවසන්තයේ සඳ මියැදුන දවසක\nබෙදා හදා ගත් දුක වත් අද නැත\nඒ දුක කොතරම් මිහිරි ද සොඳුරිය\n\nසොඳුරිය කාලය කොතරම් නපුරුද\nදිවි හිමියෙන් කදුළැළි පුරවා ගෙන\nරැකගත් ආලය උදුරා ගෙන ගිය\nකාලය කොතරම් නපුරුද සොඳුරිය",
+    "lyricist": "සමන්ත හේරත්",
     "musician": "ප්‍රේමසිරි කේමදාස",
-    "singer": "",
+    "singer": "අමරසිරි පීරිස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/sonduriya-kalaya-kotharam-napuruda-amarasiri-peiris",
         "spotify": "https://open.spotify.com/track/3FF4VawatQsRjmZndJPcBk?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/80e12a20-7ecf-11ea-9cf8-571e1155070f/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "කවිය ඔබම වී නැළවුන යුගයක",
+            "meaning": "මාගේ මුලු ජීවිතයම ඔබයි",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "කවිය",
+            "target_domain": "ජීවිතය"
+        },
+        {
+            "lyrics_part": "වසන්තයේ සඳ මියැදුන දවසක",
+            "meaning": "අප සම්බන්දය නැති උන දවසක",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "වසන්තයේ සඳ",
+            "target_domain": "සම්බන්දය"
         }
     ]
 }

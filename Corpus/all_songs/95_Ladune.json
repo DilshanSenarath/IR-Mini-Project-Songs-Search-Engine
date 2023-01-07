@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ළඳුනේ",
+    "released_year": "2004",
+    "album": "සිවු සිත් ගී, වෙළුම. 4",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ළඳුනේ - ළඳුනේ\nඔබේ දෑස දැකගත්තෙමි\nසැඳෑ කලෙක ළඳුනේ - ළඳුනේ\nදෙනෝ දහක් අත ගත්තද\nසැමියෙකු නැති ළඳුනේ\nනෑයෙක් නෑකම නොකියන\nවීදි සරණ ළඳුනේ - ළඳුනේ\n\nතෙල් මල් ගෙන දෝත පුරා\nමුනිකුටියට පියමං වන\nඔබේ දෑස දැක ගත්තෙමි\nසැඳෑ කලෙක ළඳුනේ - ළඳුනේ\n\nබුදුන් දැක නිවන් දකිමැයි\nදෙව්රම යන පාර අහන\nඔබ ද පටාචාරාවකි\nඔබ ද කිසාගෝතමියකි\n\nපිරිමින්ගේ පාප කඳට\nදෝස විඳින ළඳුනේ\nඅඳුරේ පව් කරන දනා එළියෙ රවන ළඳුනේ\nළැම පමණක් ලොවට පෙනෙන\nළය නොපෙනෙන ළඳුනේ\nකුහුඹුවකුට වරදක් නැති\nවැරදිකාර ළඳුනේ",
+    "lyricist": "රන්බණ්ඩා සෙනවිරත්න",
     "musician": "ප්‍රේමසිරි කේමදාස",
-    "singer": "",
+    "singer": "අමරසිරි පීරිස්",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/landune-ladune-obe-dasa-dakagaththemu-amarasiri-peiris",
         "spotify": "https://open.spotify.com/track/6coRx1LEqvxZbiVaN35Vj5?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/63fc0e80-bd0a-11e9-9472-e1ca74d6f2a5/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "සැඳෑ කලෙක ළඳුනේ - ළඳුනේ",
+            "meaning": "ඇයගේ මහලු කාලය",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "සැඳෑ කලෙක",
+            "target_domain": "මහලු කාලය"
+        },
+        {
+            "lyrics_part": "නෑයෙක් නෑකම නොකියන\nවීදි සරණ ළඳුනේ - ළඳුනේ",
+            "meaning": "ගෞරවයක් හිමි නොවන හැමෝගෙන්ම ප්‍රතික්ශේප වෙන අයාලේ යන ඇය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "වීදි සරණ",
+            "target_domain": "අයාලේ යන"
         }
     ]
 }

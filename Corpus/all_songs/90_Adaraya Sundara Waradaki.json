@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ආදරය සුන්දර වරදකි",
+    "released_year": "2017",
+    "album": "අන්දර යායේ",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ආදරය සුන්දර වරදකි\nකිසිදා සමාවක් නම් නැති\nමට පෙන්නලා ආලේ හැටි\nනුඹ දුන්නු දුක හොඳටම ඇති\n\nආදරය සුන්දර වරදකි\nකිසිදා සමාවක් නම් නැති\nමට පෙන්නලා ආලේ හැටි\nනුඹ දුන්නු දුක හොඳටම ඇති\n\nඉඳුවර නුවන් දෑලේ වැටී පෑහී\nබැහැරී වෙලී උන්මාද වූයේ මා\nවෙනකෙකු දිහා බැලුමට යලිත්\nමට නෙත් නැතැයි කෙඳිරුවේ කවුරුන්දෝ\n\nආදරය සුන්දර වරදකි\nකිසිදා සමාවක් නම් නැති\nමට පෙන්නලා ආලේ හැටි\nනුඹ දුන්නු දුක හොඳටම ඇති\n\nපුළුලුරුතලා වීණා බඳින් දැවටී\nරතැඟිලි බැඳී නින්නාදයේ අනුරා\nහද ස්වර පවා කම්පිත වෙවී\nමට මා පවා නැති කලේ කවුරුන්දෝ\n\nආදරය සුන්දර වරදකි\nකිසිදා සමාවක් නම් නැති\nමට පෙන්නලා ආලේ හැටි\nනුඹ දුන්නු දුක හොඳටම ඇති\n\nආදරය සුන්දර වරදකි\nකිසිදා සමාවක් නම් නැති\nමට පෙන්නලා ආලේ හැටි\nනුඹ දුන්නු දුක හොඳටම ඇති",
+    "lyricist": "යමුනා මාලනී පෙරේරා",
     "musician": "ගුණදාස කපුගේ",
-    "singer": "",
+    "singer": "කරුණාරත්න දිවුල්ගනේ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/adaraya-sundara-waradaki-karunarathna-divulgane",
         "spotify": "https://open.spotify.com/track/4j4DEo4s9QQyi6weo0zbdO?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/64c36070-bd0a-11e9-9644-5d50eefab640/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ඉඳුවර නුවන්",
+            "meaning": "ලස්සන ඇස්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "ඉඳුවර නුවන්",
+            "target_domain": "ලස්සන ඇස්"
+        },
+        {
+            "lyrics_part": "හද ස්වර පවා කම්පිත වෙවී",
+            "meaning": "හදවත ස්පන්ධන පවා කම්පා වේවී",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "හද ස්වර",
+            "target_domain": "හදවත ස්පන්ධන"
         }
     ]
 }
