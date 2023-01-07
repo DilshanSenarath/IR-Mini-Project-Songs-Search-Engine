@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "සෙන්ටිග්‍රේඩ්ස්",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/karoke-song/mandaram-wahipoda-pahasara-obe-adare-karaoke-mp3",
+        "spotify": "https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/pahasara-obe-adare/659053435?i=659053438"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=kDQ3MAJeK1A",
+    "download": "https://songhub.lk/karoke/download/f754d240-2820-11ec-bc5d-43a1a6076bfa%29%29",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

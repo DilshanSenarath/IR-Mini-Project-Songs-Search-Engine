@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍ය",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රවිහංස වැටකේපොත",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/ahase-tharu-ken-mathakada-hendewe-ruwan-hettiarachchi-raini-charuka-ravihansa-wetakepotha",
+        "spotify": "https://open.spotify.com/track/7gFbtLi4CqjjquCDJKxhka?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/mathakada-handaawe/1498567388?i=1498567389"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=4Iu7r8qwqJs",
+    "download": "https://songhub.lk/song/679aebe0-bd0a-11e9-b0e5-ff17d5f7467a/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

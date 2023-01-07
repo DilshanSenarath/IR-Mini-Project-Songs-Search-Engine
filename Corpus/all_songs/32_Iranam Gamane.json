@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "අරෝෂ් ජයකොඩි",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/iranam-gamane-peruman-piruwe-dinesh-tharanga",
+        "spotify": "https://open.spotify.com/track/3GJ7t2Xt4F50o4wiE0KKLa?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/iranam-gamane/1554444868?i=1554444869"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=N_b_Rf9acoQ",
+    "download": "https://songhub.lk/song/03bb0f20-7ec3-11ea-b3ba-6132254b11b5/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

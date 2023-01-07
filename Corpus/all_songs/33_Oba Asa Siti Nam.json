@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "අතුල අදිකාරි, අමරසිරි පීරිස්, රූකාන්ත ගුණතිලක, කපිල පූගලආරච්චි",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/oba-asa-siti-nam-mama-mese-kiyannam-nelu-adhikari",
+        "spotify": "https://open.spotify.com/track/3mcXxHoICCEzJ1J1Em7ogq?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/oba-asa-siti-nam-feat-kapila-poogalarachchi-rookantha/1554084553?i=1554084974"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=cILkG4XlWrU",
+    "download": "https://songhub.lk/song/664e99b0-bd0a-11e9-b9db-b3a8fa36095c/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

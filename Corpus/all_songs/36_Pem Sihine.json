@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "පොප් සංගීතය, ඉන්දියානු චිත්‍රපට පොප්, සෝල් බ්ලූස්, සම්භාව්‍ය, ඉන්දියානු පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "ප්‍රදීප් රංගන",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/pem-sihine-sitha-sanasu-pradeep-rangana",
+        "spotify": "https://open.spotify.com/track/77HlQL6iaAmCM3QmqYR4Kc?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/pem-sihine/933820030?i=933820048"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=ByWJVjQmGP8",
+    "download": "https://songhub.lk/song/66d98ef0-bd0a-11e9-8da9-437a8a5b8eff/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

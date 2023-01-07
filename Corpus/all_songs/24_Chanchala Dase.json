@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රාජ් තිල්ලයම්පලම්",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/chanchala-dase-maya-raini-charuka",
+        "spotify": "https://open.spotify.com/track/61YyLeIrd6kyrSUVzSbncs?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/chanchala-dase-feat-raini-charuka/797445945?i=797446309"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=cFokBjCPjE8",
+    "download": "https://songhub.lk/song/6713d010-bd0a-11e9-bb3e-b97a568f718b/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "සඳරුවන් ජයසිංහ",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/duka-wadi-tharamata-noel-raj",
+        "spotify": "https://open.spotify.com/track/6GAEG2AyEwQYMlDOU6WCfj?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/duka-wadi-tharamata/1215566528?i=1215566774"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=VRmeictwc2k",
+    "download": "https://songhub.lk/song/66900cb0-bd0a-11e9-a44e-7b3b7c5d2913/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රූකාන්ත ගුණතිලක",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/roopa-sobawata-chandraleka-perera",
+        "spotify": "https://open.spotify.com/track/3cAUoSDomeE4ZUSj7mDwwO?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/roopa-sobawata/1552960501?i=1552961108"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=m4pCiCwyWt8",
+    "download": "https://songhub.lk/song/aebf94a0-1188-11ea-ac04-8d76073e06a1/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

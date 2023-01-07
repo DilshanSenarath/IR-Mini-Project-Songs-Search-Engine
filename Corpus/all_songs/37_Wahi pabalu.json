@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "කසුන් කල්හාර",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/wahi-pabalu-sali-surendra-perera",
+        "spotify": "https://open.spotify.com/track/6aEoEbe6crEFksGTTACvsq?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/wahi-pabalu/809525140?i=809525276"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=pET2brYbiRg",
+    "download": "https://songhub.lk/song/68778cc0-bd0a-11e9-9b1a-4787aacbd11e/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

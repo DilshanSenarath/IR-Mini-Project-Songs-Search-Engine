@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "හමු වුණේ නැත",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/hadawatha-gahena-cover-sahan-liyanage",
+        "spotify": "",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=jJi0QV_ZqFk",
+    "download": "https://songhub.lk/karoke/download/a79b4030-65b7-11ea-925e-e3702138fbc6%29%29",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

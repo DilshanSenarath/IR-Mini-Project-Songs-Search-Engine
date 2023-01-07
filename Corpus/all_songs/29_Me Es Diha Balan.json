@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රදීශ් වැන්දබෝනා",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/me-es-diha-balan-shihan-mihiranga",
+        "spotify": "https://open.spotify.com/track/6SxBw4j4nRZu8TvpbEt5kO?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/me-es-diha-balan/1217428506?i=1217429476"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=NIUVxrA3AyI",
+    "download": "https://songhub.lk/song/682712b0-bd0a-11e9-8ae9-f11a5729b35b/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

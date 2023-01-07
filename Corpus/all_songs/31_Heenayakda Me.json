@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "හමු වුණේ නැත",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/karoke-song/heenayakda-me-me-wassana-sihinaya-sindu-kamare-karaoke-mp3",
+        "spotify": "https://open.spotify.com/track/4PFLQEUkthzxU3qjcb1XgK?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/heenayakda-me/1517660437?i=1517660438"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=DdqpaH7Mbso",
+    "download": "https://songhub.lk/karoke/download/02a5d580-4e95-11ec-8b64-c1534f04195a%29%29",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

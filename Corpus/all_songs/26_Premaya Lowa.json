@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/premaya-lowa-hama-thanama-athi-chandana-liyanarachchi",
+        "spotify": "https://open.spotify.com/track/1fpFoAEwLe5ESxT7O5E7aH?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/premaya-lowa-feat-chandana-liyanarachchi/1634828744?i=1634829046"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=wfZS2UD51LI",
+    "download": "https://songhub.lk/song/63207da0-bd0a-11e9-8839-f36228b1a820/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

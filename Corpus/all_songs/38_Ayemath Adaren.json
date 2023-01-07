@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "තිළිණ රුහුණගේ",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/ayemath-adaren-remix-athula-adhikari-samitha-mudunkotuwa",
+        "spotify": "https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/ayemath-adaren-feat-athma-liyanage/1585027962?i=1585027963"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=2kEIfAurC3A",
+    "download": "https://songhub.lk/song/6a68fa60-8e0c-11ec-b935-7f7c1d040f85/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

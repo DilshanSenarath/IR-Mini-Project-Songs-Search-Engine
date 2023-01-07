@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, ගසල්",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/karadiya-gambare-sandaru-suyamaya-edward-jayakody",
+        "spotify": "https://open.spotify.com/track/63PoAi9rjXsvL40yBcLKpq?autoplay=true",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=egrjQ6rnjVg",
+    "download": "https://songhub.lk/song/72c524d3-8f9e-4cdc-9c9d-4a6562830f84/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}

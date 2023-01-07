@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "",
+    "released_year": "",
+    "album": "",
+    "genre": "විකල්ප/ඉන්ඩි",
+    "lyrics": "",
+    "lyricist": "",
+    "musician": "සනත් නන්දසිරි",
+    "singer": "",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/atha-epita-gammanen-sanath-nandasiri",
+        "spotify": "",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=wi3LpBIVhXQ",
+    "download": "https://songhub.lk/song/67e72340-bd0a-11e9-b552-fdad6346176c/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "",
+            "meaning": "",
+            "type": "",
+            "source_domain": "",
+            "target_domain": ""
+        }
+    ]
+}
