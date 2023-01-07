@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "මගෙ ආදර ළන්දු",
+    "released_year": "2012",
+    "album": "ළන්දු",
+    "genre": "පොප්",
+    "lyrics": "මගෙ ආදර ළන්දු ඇයි ඔය නෙතු අග කඳුළු\nමට වද දෙයි ළන්දු හොර රහසෙ වැටෙන කඳුළු\nඒ වැටෙන කඳුළු මං නිසාද මගෙ සුදු ළන්දු\nඒ නුඹේ කඳුළු මට දීපන් මගෙ සුදු ළන්දු\n\nමගෙ ආදර ළන්දු ඇයි ඔය නෙතු අග කඳුළු\nමට වද දෙයි ළන්දු හොර රහසෙ වැටෙන කඳුළු\n\nකෝල කතා දිග හැරපන්,\nඔමරි සිනා තව හෙළපන්\nවෙනදා මෙන් තුරුළු වෙයන්, රත්තරනේ මට සමාවෙයන්\nමම නුඹේ ළඟම ගැවසීලා නුඹ සනසන්නම්\nඒ නුඹේ ඇසින් වැටෙන කඳුළු පිසදාලන්නම්\n\nමගෙ ආදර ළන්දු ඇයි ඔය නෙතු අග කඳුළු\nමට වද දෙයි ළන්දු හොර රහසෙ වැටෙන කඳුළු\n\nනුඹෙ සෙනෙහෙන් දෝරෙ ගලන්, ගිය කඳුලින් මට ලියපන්\nනුඹෙ සිතුම් දිග හැරපන්,\nනුඹෙ සුසුම් මට දීපන්\nමම හිරුට හොරෙන් ඇවිදින් නුඹ කැන්දන් යන්නම්\nනුඹ සඳුට හොරෙන් තරු අතරින් එක්කන් යන්නම්\n\nමගෙ ආදර ළන්දු ඇයි ඔය නෙතු අග කඳුළු\nමට වද දෙයි ළන්දු හොර රහසෙ වැටෙන කඳුළු...",
+    "lyricist": "ඩී ටැප්",
+    "musician": "ඩී ටැප්",
+    "singer": "ඩී ටැප්",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/mage-adara-landu-d-tap",
+        "spotify": "https://open.spotify.com/track/6vgYHnZuHxhaAZGboGOd91?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/landu/544271841?i=544271847"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=aH7lkfFyIKM",
+    "download": "https://songhub.lk/song/68f9b2a0-bd0a-11e9-9cfe-afc82278ba3a/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "රත්තරනේ",
+            "meaning": "නුඹ මට විශේෂ කෙනෙක්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "ආදරනීය කෙටි නම",
+            "target_domain": "විශේෂත්වය"
+        },
+        {
+            "lyrics_part": "මම හිරුට හොරෙන් ඇවිදින් නුඹ කැන්දන් යන්නම්\nනුඹ සඳුට හොරෙන් තරු අතරින් එක්කන් යන්නම්",
+            "meaning": "කෙතරම් බාදක තිබුනද ඔබව මං ලගට ගන්නව",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "හිරු සඳු",
+            "target_domain": "බාදක"
+        }
+    ]
+}

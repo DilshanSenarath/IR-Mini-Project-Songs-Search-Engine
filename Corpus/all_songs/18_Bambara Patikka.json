@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "බඹර පැටික්කා",
+    "released_year": "2012",
+    "album": "ඉරාජ්ගේ හොඳම",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "හොඳට මත්වුණ බඹර පැටික්කා\nපදම ඉක්මුව බවද හැඟෙව්වා\nනෙතග මල් නෙත ඇහැ වහගත්තා\nනුඹට මල් පැණි මදිවද මන්දා\n\nහොඳට මත්වුණ බඹර පැටික්කා\nනුඹට මල් පැණි මදිවද මන්දා\nනෙතග මල් නෙත ඇහැ වහගත්තා\nනුඹට මල් පැණි මදිවද මන්දා\nහොඳට මත්වුණ බඹර පැටික්කා\nපදම ඉක්මුව බවද හැඟෙව්වා\n\nහඳපානේ\nනටන්න බැරි එක දුකයි තමා\nසුදු මූණේ\nඉඹින්න බැරි තොල් තෙතයි තමා\nමම කී දේ\nඇගෙන් නොලත් දේ ඔබෙන් එපා\nහැර යන්නේ\nඇගෙ හිත හොඳටම පළුදු වෙලා\n\nමට නටන්න බැරි එක දුකයි තමයි\nමගෙ කෙල්ල දැක්කොත් මගෙ ඔළුවම කයි\nඒත් මොනවද කරන්නෙ ඔයයි මමයි\nමට පොඩ්ඩක් හයි වගේ දැණෙනවමයි\n\nහොඳට මත්වුණ බඹර පැටික්කා\nපදම ඉක්මුව බවද හැඟෙව්වා\nනෙතග මල් නෙත ඇහැ වහගත්තා\nනුඹට මල් පැණි මදිවද මන්දා\n\nඑනවානේ\nතුරුල් වෙන්නෙ පපුවටයි ඔයා\nයනවානේ\nබලාගන්න මම වැටෙයි මෙයා\nසැනසෙන්නේ\nමධුවිත තොලගා තුරුළු වෙලා\nනැලවෙන්නේ\nහදාගන්න හිත තියෙන නිසා\n\nදැන්නම් අනෙ මට ගොඩක්ම හයි\nමට ඩබල් වෙලා අනෙ පෙනෙන්නෙ ඇයි\nමගෙ යාළුවෙ සෙට්එක තාමත් බොයි\nදැන් කාර්එක නම් මට ඩ්රයිව් කරන්න වෙයි\n\nහොඳට මත්වුණ බඹර පැටික්කා\nපදම ඉක්මුව බවද හැඟෙව්වා\nනෙතග මල් නෙත ඇහැ වහගත්තා\nනුඹට මල් පැණි මදිවද මන්දා",
+    "lyricist": "හමු වුණේ නැත",
+    "musician": "හමු වුණේ නැත",
+    "singer": "ඉරාජ් වීරරත්න, සමිතා මුදුන්කොටුව, ",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/hodata-math-una-babara-patikka-iraj-weeraratne-samitha-mudunkotuwa",
+        "spotify": "https://open.spotify.com/track/0mUM2wLpMKCTGp05huczts?autoplay=true",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=8E7eaob9u-w",
+    "download": "https://songhub.lk/song/64a576d0-bd0a-11e9-b857-7f1bbbf9f5f6/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "බඹර පැටික්කා",
+            "meaning": "මදය්‍යසාර පානය කල කෙනෙකුන්",
+            "type": "සම්මත රූපකය",
+            "source_domain": "බඹරා",
+            "target_domain": "මදය්‍යසාර පානය කල කෙනෙකුන්"
+        },
+        {
+            "lyrics_part": "මල් පැණි",
+            "meaning": "මදය්‍යසාර",
+            "type": "සම්මත රූපකය",
+            "source_domain": "පැණි",
+            "target_domain": "මත් වතුර"
+        },
+        {
+            "lyrics_part": "පදම ඉක්මුව",
+            "meaning": "පමනට වැඩි වීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පදම",
+            "target_domain": "පමන"
+        }
+    ]
+}

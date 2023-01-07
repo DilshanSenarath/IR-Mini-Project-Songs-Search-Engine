@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "ලංවෙලා හිම සීතේ",
+    "released_year": "2020",
+    "album": "අන්තිම ආදරයයි",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, සම්භාව්‍ය",
+    "lyrics": "ලංවෙලා හිම සීතේ\nපා නුරා නිල් දෑසේ\nපෑ සෙනෙහෙන්\nමා මත් වෙලා\nනිල් ගැබේ පායනා\nපුන්සඳේ රැස් පවා\nසිනාසි අපේ දිහා බලා උන්නා\n\nලංවෙලා හිම සීතේ\nපා නුරා නිල් දෑසේ\nපෑ සෙනෙහෙන්\nමා මත් වෙලා\n\nසුමුදු මල් පියල්ලේ\nරූ දෙතොල් සිනාසි\nමා හද විලේ ඔබ හැංඟුනා\nඔය දෑතේ මුදු පහසින් මා\nකිති කැවිලා\nඔබේ පෙම් තුරැල්ලේ උණුසුම් උනා\n\nලංවෙලා හිම සීතේ\nපා නුරා නිල් දෑසේ\nපෑ සෙනෙහෙන්\nමා මත් වෙලා\n\nමහද රන් විමානේ\nලැගුම් ගත් සුගන්දි\nමේ නිල් විලේ අද හැන්ගිලා\nහැමු සුලගේ මුසු සුවදින්\nමා හද සලා\nතැනූ පෙම් කැදැල්ලේ මා තනිකලා\n\nලංවෙලා හිම සීතේ\nපා නුරා නිල් දෑසේ\nපෑ සෙනෙහෙන්\nමා මත් වෙලා\nනිල් ගැබේ පායනා\nපුන්සඳේ රැස් පවා\nසිනාසි අපේ දිහා බලා උන්නා\n\nලංවෙලා හිම සීතේ\nපා නුරා නිල් දෑසේ\nපෑ සෙනෙහෙන්\nමා මත් වෙලා",
+    "lyricist": "නන්දන වික්‍රමගේ",
+    "musician": "රොමේෂ් සුගතපාල",
+    "singer": "උදේශ් ඉන්දුල",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/lanwela-hima-seethe-sulan-kurullo-udesh-indula-samantha-perera",
+        "spotify": "https://open.spotify.com/track/0xqCLqpYjKpDhOPXU6wNVC?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/lanwela-hima-seethe/1511758775?i=1511759053"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=eRecJBtUhQI",
+    "download": "https://songhub.lk/song/8f86f180-2021-11ea-9789-6bacfe82f814/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "සුමුදු මල් පියල්ලේ",
+            "meaning": "ඇය ලස්සන බව කියැවීම",
+            "type": "සම්මත රූපකය",
+            "source_domain": "මල් පියල්ල",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "සුගන්දි",
+            "meaning": "ඇය ලස්සන බව කියැවීම",
+            "type": "සම්මත රූපකය",
+            "source_domain": "මල",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "මේ නිල් විලේ අද හැන්ගිලා",
+            "meaning": "නැති වී ගිහින්",
+            "type": "මිශ්‍ර රූපකය",
+            "source_domain": "හැන්ගිලා",
+            "target_domain": "මිය යාම"
+        }
+    ]
+}

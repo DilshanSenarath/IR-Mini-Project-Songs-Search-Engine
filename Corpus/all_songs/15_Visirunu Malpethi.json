@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "විසිරුනු මල් පෙති",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත VOL. A (සජීවී)",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්",
+    "lyrics": "විසිරුනු මල් පෙති දෝතට ගත් කුමරි\nඒ පෙති එක් කර මලක් සොයන බොලඳි\nසරදම් නොකරමි ආදරයෙන් කියමි\nවිසිරුනු පෙති යලි මලක් නොවේ නැගණි\n\nවිසිරුනු මල් පෙති දෝතට ගත් කුමරි\nඒ පෙති එක් කර මලක් සොයන බොලඳි\nසරදම් නොකරමි ආදරයෙන් කියමි\nවිසිරුනු පෙති යලි මලක් නොවේ නැගණි\n\nවෙරළ සොයා රළ පෙළ දිව ආවත්\nවෙරළට කිසිදා දියඹ දකිනු හැකිදෝ\nබඳට පියාපත් යුවලක් ලැබුනත්\nඅහසේ දෙකලවර නුඹට දිනනු හැකිදෝ\n\nවිසිරුනු මල් පෙති දෝතට ගත් කුමරි\nඒ පෙති එක් කර මලක් සොයන බොලඳි\nසරදම් නොකරමි ආදරයෙන් කියමි\nවිසිරුනු පෙති යලි මලක් නොවේ නැගණි\n\nබඹරුන් පසුපස මල් දිව නොගියත්\nඅවමන් වින්දේ මල් කුලයම නොවෙදෝ\nමෙදහම් නුවණින් නුඹ නොදුටුවොතින්\nනුඹේ සුසුම් ගිනි බොල් අහසම නොවෙදෝ\n\nවිසිරුනු මල් පෙති දෝතට ගත් කුමරි\nඒ පෙති එක් කර මලක් සොයන බොලඳි\nසරදම් නොකරමි ආදරයෙන් කියමි\nවිසිරුනු පෙති යලි මලක් නොවේ නැගණි",
+    "lyricist": "බන්දුල නානායක්කාරවසම්",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "අතුල අධිකාරි",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/visirunu-mal-pethi-dothata-gath-kumari-athula-adhikari",
+        "spotify": "https://open.spotify.com/track/3lyT3I9JRI949krXeDkuHh?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/visirunu-malpethi-feat-athula-adhikari/1530624366?i=1530624375"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=GCKg996yYbU",
+    "download": "https://songhub.lk/song/64408ce0-bd0a-11e9-ac08-439e81e3d479/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "විසිරුනු මල් පෙති දෝතට ගත් කුමරි\nඒ පෙති එක් කර මලක් සොයන බොලඳි\nසරදම් නොකරමි ආදරයෙන් කියමි\nවිසිරුනු පෙති යලි මලක් නොවේ නැගණි",
+            "meaning": "බිදුනු සිතක් යලි සෑදිය නොහැක",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "විසිරුනු මල් පෙති",
+            "target_domain": "සිත"
+        },
+        {
+            "lyrics_part": "වෙරළ සොයා රළ පෙළ දිව ආවත්\nවෙරළට කිසිදා දියඹ දකිනු හැකිදෝ",
+            "meaning": "කෙසේවත් කල නොහැකි දෙයක් බව හැගවීම",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "වෙරළ රළ",
+            "target_domain": "සිදු නොවන බව"
+        },
+        {
+            "lyrics_part": "බඳට පියාපත් යුවලක් ලැබුනත්\nඅහසේ දෙකලවර නුඹට දිනනු හැකිදෝ",
+            "meaning": "කෙසේවත් කල නොහැකි දෙයක් බව හැගවීම",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "විසිරුනු මල් පෙති",
+            "target_domain": "සිදු නොවන බව"
+        }
+    ]
+}

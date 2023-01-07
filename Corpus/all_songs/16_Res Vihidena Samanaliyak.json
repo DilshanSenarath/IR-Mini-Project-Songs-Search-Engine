@@ -1,1 +1,40 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "රැස් විහිදෙන සමනලියකගෙන්",
+    "released_year": "2013",
+    "album": "භාතිය සහ සන්තුෂ්ගේ හොඳම - Hit Singles",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "රැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\nපාවී ගොස් උඩු යටිකුරු වී\nනෙත් තෙමුනාම\nදිරි දෙන්නම් මුළු හද පත්ලෙන්\nමහමෙර සේම\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\n\nසියැසින් දුටු සිහිනයකින්\nපහසක් ගෙන එන්නම්\nහැබැහින් විද ගන්න\nරහසින් ගෑ මුදු සුවදින්\nහුස්මක් පුරවන්නම්\nළමැදේ බිහි වෙන්න\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\nපාවී ගොස් උඩු යටිකුරු වී\nනෙත් තෙමුනාම\nදිරි දෙන්නම් මුළු හද පත්ලෙන්\nමහමෙර සේම\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\n\nසුසුමින් හුන්මිටි තබමින්\nතනියෙන් ඉන්නවනම්\nඉන්නම් දුක ගන්න\nගලනා දා බිදු පිසිමින්\nවත්සුනු තවරන්නම්\nඉරණම පෙරලන්න\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\nපාවී ගොස් උඩු යටිකුරු වී\nනෙත් තෙමුනාම\nදිරි දෙන්නම් මුළු හද පත්ලෙන්\nමහමෙර සේම\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට\n\nරැස් විහිදෙන සමනලියකගෙන්\nඉගියක් ලැබුනාම\nරැක ගන්නම් දුර අවකාශේ\nඉගිලී යන දාට",
+    "lyricist": "භාතිය සහ සන්තුෂ්",
+    "musician": "භාතිය සහ සන්තුෂ්",
+    "singer": "භාතිය සහ සන්තුෂ්",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/res-wihidena-samanaliyakagen-igiyak-labunama-bathiya-santhush",
+        "spotify": "https://open.spotify.com/track/3wD10JSwAPkeGmfWSu5OT6?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/res-vihidena-samanaliyak/784494684?i=784494719"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=GW4APZftzEU",
+    "download": "https://songhub.lk/song/63005300-bd0a-11e9-a2d1-d5768cb7b8ec/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "රැස් විහිදෙන සමනලියකගෙන්",
+            "meaning": "ඇය ලස්සන බව කියැවීම",
+            "type": "සම්මත රූපකය",
+            "source_domain": "සමනලියක්",
+            "target_domain": "ලස්සන"
+        },
+        {
+            "lyrics_part": "පාවී ගොස් උඩු යටිකුරු වී",
+            "meaning": "කරදරයක් වුනු දාට",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "උඩු යටිකුරු වීම",
+            "target_domain": "කරදරයක් වීම"
+        },
+        {
+            "lyrics_part": "ගලනා දා බිදු පිසිමින්",
+            "meaning": "මහන්සිය මග හැරවන්නම්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ගලනා දා බිදු",
+            "target_domain": "මහන්සිය"
+        }
+    ]
+}

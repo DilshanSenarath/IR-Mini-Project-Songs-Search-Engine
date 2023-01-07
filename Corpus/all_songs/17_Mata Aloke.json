@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "මට ආලෝකේ ගෙනදේවි සංසාරයේ",
+    "released_year": "2014",
+    "album": "රස රිසි ගී",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "මට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමගෙ ජීවන හදේ බැමි ස්ථිරවේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමනහාරීවේ මෙනිවස දේ පින මා\nමනහාරිවේ මෙනිවස දේ පින මා\nලෝකෙ නිම් නෑ සෙනේහෙ මැවූ රන් රහා\nලෝකෙ නිම් නෑ සෙනේහෙ මැවූ රන් රහා\nතිර මා ආලෙ හෘදේහි දුල්සාර වේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමගෙ ජීවනය රස මල් සිනාවෙන් වෙලී\nමගෙ ජීවනය රස මල් සිනාවෙන් වෙලී\nසිත සැනසිල්ල හිමි පාද සෙවණේ සැදී\nසිත සැනසිල්ල හිමි පාද සෙවණේ සැදී\nනෙක හැඩපා ඔබේ පාද පරිචාරිකා\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nලෝකයේ මේ වගේ කොයිද රස කන්කළු\nලෝකයේ මේ වගේ කොයිද රස කන්කළු\nසෑදේ මහදේ මෙ සැමියාට ආලේ කෙරූ\nසෑදේ මහදේ මෙ සැමියාට ආලේ කෙරූ\nමාගේ පූජා පියා මාගෙ නිර්වාණෙ වේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමගෙ ජීවන හදේ බැමි ස්ථිරවේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ\nමට ආලෝකේ ගෙනදේවි සංසාරයේ",
+    "lyricist": "ඉරාජ් වීරරත්න",
+    "musician": "ඉරාජ් වීරරත්න",
+    "singer": "ඉරාජ් වීරරත්න",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/mata-aloke-gena-devi-sansaraye-iraj-weeraratne",
+        "spotify": "https://open.spotify.com/track/0jXU1ThGhZdo1ntYuIyzjh?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/mata-aloke-feat-ranidu-krishan-jikki/806861897?i=806861914"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=pYcSrQKcyeE",
+    "download": "https://songhub.lk/song/64a71460-bd0a-11e9-a2ec-cbc03774117f/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "මට ආලෝකේ ගෙනදේවි",
+            "meaning": "මගේ ජීවිතය සර්ථක කරනවා",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ආලෝකය",
+            "target_domain": "සර්ථකත්වය"
+        },
+        {
+            "lyrics_part": "ආලෙ හෘදේහි දුල්සාර වේ",
+            "meaning": "ආලය වර්දනය වෙයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "දුල්සාර වේ",
+            "target_domain": "වර්දනය"
+        }
+    ]
+}

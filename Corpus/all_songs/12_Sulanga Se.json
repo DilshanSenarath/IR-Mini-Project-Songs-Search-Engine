@@ -1,1 +1,33 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "සුළග සේ පාවී",
+    "released_year": "2006",
+    "album": "උරුමය",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "සුළග සේ පාවී\nඈ යලි යාවි\nමා යලි තනිවී පෙර ලෙසේ\nපෙර දිනේ හමු වී\nරහසින් තනි වී\nකී බස් ගොලු වී\nඅද මෙසේ\nඈ... යලි නොයේ\nසිහිනයේ පෙර ලෙසේ\nමා... තනි වෙලා නොසිතුසේ මේ රැයේ\n\nහේ හේ හේ ... ආ හා ආ\nඒ මාවතේ ඔබ එදා හමු වෙලා\nඒ කී කතා බොද වෙලා වියැකිලා\nසුළග සේ පාවී\nඈ යලී යාවි\n\nමා යලි තනිවී පෙර ලෙසේ\nපෙර දිනේ හමුවී රහසින් තනිවී\n\nකී බස් ගොලූ වී අද මෙසේ\nසුළග සේ පාවී\nඈ යලි යාවි\nමා යලි තනි වී\nපෙර ලෙසේ\nපෙරදිනේ හමු වී රහසින් තනිවී\nකී බස් ගොලු වී අද මෙසේ",
+    "lyricist": "සෙන්ටිග්‍රේඩ්ස්",
+    "musician": "සෙන්ටිග්‍රේඩ්ස්",
+    "singer": "සෙන්ටිග්‍රේඩ්ස්",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/sulanga-se-coke-red-centigradz",
+        "spotify": "https://open.spotify.com/track/6PJrnbdGmbiXjFceEFlnaR?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/sulanga-se/261299795?i=261300401"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=BTcHAdPWc8c",
+    "download": "https://songhub.lk/song/58ee8ea0-45cb-11ec-9fea-d1e3ecc79a5d/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "සුළග සේ පාවී",
+            "meaning": "ශනයකින් යනවා",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සුළග",
+            "target_domain": "ඉක්මනින්"
+        },
+        {
+            "lyrics_part": "කී බස් ගොලු වී",
+            "meaning": "යලි මුන නොගැසීම සහ කතා නොකිරීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "ගොලු බාවය",
+            "target_domain": "යලි මුන නොගැසීම"
+        }
+    ]
+}

@@ -1,1 +1,26 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "සුවඳ තියා මා ළඟ",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත, වෙළුම. 55",
+    "genre": "ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු ජන",
+    "lyrics": "සුවඳ තියා මා ළඟ\nඔබ අරං යන්න මල්\nනෙත නිලුපුල්\nවත රතුපුල්\nනෙත නිලුපුල් වත රතුපුල්\nකොඳ කැකුළු සිනා මල්\nසුවඳ තියා මා ළඟ\nඔබ අරං යන්න මල්\nනෙත නිලුපුල්\nවත රතුපුල්\nනෙත නිලුපුල් වත රතුපුල්\nකොඳ කැකුළු සිනා මල්\nමේ අහස යට ම කොතැනක හෝ\nඔබ ඉන්නවා නම්\nමම ඉන්නම් ඒ සුවඳ තියන්\nයළි ඔබ එනකල්\nමේ අහස යට ම කොතැනක හෝ\nඔබ ඉන්නවා නම්\nමම ඉන්නම් ඒ සුවඳ තියන්\nයළි ඔබ එනකල්\nසුවඳ තියා මා ළඟ\nඔබ අරං යන්න මල්\nනෙත නිලුපුල්\nවත රතුපුල්\nනෙත නිලුපුල් වත රතුපුල්\nකොඳ කැකුළු සිනා මල්\nරජ සිටු මැතිවරු මිලට අරන් වසන්ත සල්පිල්\nමට කියන්න, ඔබ ඇර කොයින්ද මිල නො කළැකි මල්?\nරජ සිටු මැතිවරු මිලට අරන් වසන්ත සල්පිල්\nමට කියන්න, ඔබ ඇර කොයින්ද මිල නො කළැකි මල්?\nසුවඳ තියා මා ළඟ\nඔබ අරං යන්න මල්\nනෙත නිලුපුල්\nවත රතුපුල්\nනෙත නිලුපුල් වත රතුපුල්\nකොඳ කැකුළු සිනා මල්\nසුවඳ තියා මා ළඟ\nඔබ අරං යන්න මල්\nනෙත නිලුපුල්\nවත රතුපුල්\nනෙත නිලුපුල් වත රතුපුල්\nකොඳ කැකුළු සිනා මල්",
+    "lyricist": "රත්න ශ්‍රී විජේසිංහ",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "චන්දන ලියනාරච්චි",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/suwanda-thiya-ma-langa-oba-aran-yanna-chandana-liyanarachchi",
+        "spotify": "https://open.spotify.com/track/3dKcm4hsUHoq0R64K3pL2q?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/suwanda-thiya-feat-chandana-liyanarachchi/1530440705?i=1530440959"
+    },
+    "video_watch": "https://www.youtube.com/watch?v=JoSU-EfVjdc",
+    "download": "https://songhub.lk/song/6326cb00-bd0a-11e9-8616-1765518ea533/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "මට කියන්න, ඔබ ඇර කොයින්ද මිල නො කළැකි මල්",
+            "meaning": "ඔබ මට ඉතා වටින බව පැවසීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මිල නො කළැකි මල",
+            "target_domain": "ඉතා වටින බව"
+        }
+    ]
+}

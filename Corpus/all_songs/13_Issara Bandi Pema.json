@@ -1,1 +1,54 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "ඉස්සර බෑදි පෙම",
+    "released_year": "2019",
+    "album": "ඉස්සර බෑදි පෙම",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "ඉස්සර බෑදි පෙම\nහිත්වල සුවදයි\nයලි පුබුදන්න බෑරී\nඑක්කර අතෑගිලි\nඔබ ඔහු සමගයි\nමට ඉවසන්න හෑකී\n\nඉස්සර බෑදි පෙම\nහිත්වල සුවදයි\nයලි පුබුදන්න බෑරී\nඑක්කර අතෑගිලි\nඔබ ඔහු සමගයි\nමට ඉවසන්න හෑකී\n\nඔබ පියමන්කල\nසමනළ මාවත\nමට යා ගන්න බෑරී\nඔබ පතනා ලොව\nඔබ ලබනා දින\nමගෙ හිත සතුට දකී\n\nඔබ පියමන්කල\nසමනළ මාවත\nමට යා ගන්න බෑරී\nඔබ පතනා ලොව\nඔබ ලබනා දින\nමගෙ හිත සතුට දකී\n\nඉස්සර බෑදි පෙම\nහිත්වල සුවදයි\nයලි පුබුදන්න බෑරී\nඑක්කර අතෑගිලි\nඔබ ඔහු සමගයි\nමට ඉවසන්න හෑකී\n\nමගෙ අසරණ ලොව\nඅද මා පමණකි\nඑය සගවන්න බෑරී\nඑක්කල දෑගිලි\nවෙන් නොම වේවා\nපතනෙමි සුබාසිරී...\n\nමගෙ අසරණ ලොව\nඅද මා පමණකි\nඑය සගවන්න බෑරී\nඑක්කල දෑගිලි\nවෙන් නොම වේවා\nපතනෙමි සුබාසිරී...\n\nඉස්සර බෑදි පෙම\nහිත්වල සුවදයි\nයලි පුබුදන්න බෑරී\nඑක්කර අතෑගිලි\nඔබ ඔහු සමගයි\nමට ඉවසන්න හෑකී",
+    "lyricist": "බන්දුල ජයසිංහ",
+    "musician": "සරත් ද අල්විස්",
+    "singer": "සෝමසිරි මැදගෙදර",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/issara-bandi-pema-hithwala-suwandai-somasiri-madagedara",
+        "spotify": "",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=PvCd8peM4X4",
+    "download": "https://songhub.lk/song/6850b9f0-bd0a-11e9-b0d4-b3b1ed8081b5/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "හිත්වල සුවදයි",
+            "meaning": "තවම මතකයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සුවදයි",
+            "target_domain": "මතකයි"
+        },
+        {
+            "lyrics_part": "ඔබ පියමන්කල\nසමනළ මාවත",
+            "meaning": "ඔබ ජීවිතය සාර්ථක කරගත් ආකාරය",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "සමනළ මාවත",
+            "target_domain": "සාර්ථකත්වය"
+        },
+        {
+            "lyrics_part": "ඔබ පතනා ලොව",
+            "meaning": "ඔබ බලාපොරොත්තු වෙන දෙය",
+            "type": "දෘෂ්ය රූපකය",
+            "source_domain": "ලෝකය",
+            "target_domain": "බලාපොරොත්තුව"
+        },
+        {
+            "lyrics_part": "එක්කල දෑගිලි",
+            "meaning": "විවාහය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "දෑගිලි බැදීම",
+            "target_domain": "විවාහය"
+        },
+        {
+            "lyrics_part": "එක්කර අතෑගිලි",
+            "meaning": "විවාහය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "",
+            "target_domain": "විවාහය"
+        }
+    ]
+}

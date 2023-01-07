@@ -1,1 +1,47 @@
-{"title":"","released_year":"","album":"","genre":"","lyrics":"","lyricist":"","musician":"","singer":"","mp3_listen":{"songhub":"","spotify":"","apple":""},"video_watch":"","download":"","metaphor":[{"lyrics_part":"","meaning":"","type":"","source_domain":"","target_domain":""}]}
+{
+    "title": "සොඳුරු සීතල යාමේ",
+    "released_year": "2014",
+    "album": "දම් පාට හැන්දෑවේ",
+    "genre": "හමු වුණේ නැත",
+    "lyrics": "සොඳුරු සීතල යාමේ\nඔබට ළං වී රහසේ\nඋණුසුමේ හැංගීලා\nපාවෙමුද ආකාසේ\nදම් පාට හැන්දෑවේ\nහිරු බසින මේ යාමේ\nසුළගෙ අප දැවටීලා\nපිය නගමු ළඟටම වී\n\nහද ගැහෙන හැම වේලේ\nඔබවමයි මා පැතුවේ\nහිම කන්දකින් සඟවා\nගන්න බෑ උණුසුම මේ\nඇස් පියන් මත දැවටී\nයන්න එපා ඔබ වෙන්වී\nඔබ සුවඳ මා දිවියේ\nහුස්ම සේ ඇත ළං වී\n\nසොඳුරු සීතල යාමේ\nඔබට ළං වී රහසේ\nඋණුසුමේ හැංගීලා\nපාවෙමුද ආකාසේ\nදම් පාට හැන්දෑවේ\nහිරු බසින මේ යාමේ\nසුළගෙ අප දැවටීලා\nපිය නගමු ළඟටම වී\n\nඅම්බරේ රං ඉර සේ\nමගෙ ලොවේ පෑයූවේ\nමල් සුවඳ පරදවනා\nසුවඳ ඔබමයි මාගේ\nතරු රෑන සේ දිලෙනා\nඔබෙ නෙතේ ආලෝකේ\nඔබයි මගේ සඳ කිඳුරී\nදිවිය ඇති තෙක් මාගේ\n\nදම් පාට හැන්දෑවේ\nහිරු බසින මේ යාමේ\nසුළගෙ අප දැවටීලා\nපිය නගමු ළඟටම වී\nසොඳුරු සීතල යාමේ\nඔබට ළං වී රහසේ\nඋණුසුමේ හැංගීලා\nපාවෙමුද ආකාසේ\n\nනෙතුවිලේ පායාලා\nඉන්න රන් තරුව සේ\nසිත් හැගුම් පුබුදාලා\nළං වෙමුද මේ යාමේ\nදේදුන්න වෙත පියඹා\nපාට තවරා සිහිනේ\nඔබ මගේ මා ඔබගේ\nලියමු අපි අම්බරයේ",
+    "lyricist": "සචින්",
+    "musician": "සචින්",
+    "singer": "රකිත, ටීෂා",
+    "mp3_listen": {
+        "songhub": "https://songhub.lk/song/dam-pata-handawe-sachin-rakitha",
+        "spotify": "https://open.spotify.com/track/54DFdQkpR4M7ta0f5H6QT7?autoplay=true",
+        "apple": ""
+    },
+    "video_watch": "https://www.youtube.com/watch?v=APgDFNJqoCk",
+    "download": "https://songhub.lk/song/67c71620-bd0a-11e9-b018-8f2ac2a50fc4/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
+    "metaphor": [
+        {
+            "lyrics_part": "පාවෙමුද ආකාසේ",
+            "meaning": "ආදරයේ පහස විඳ ගමු",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අහස",
+            "target_domain": "ආදරය"
+        },
+        {
+            "lyrics_part": "හිම කන්දකින් සඟවා\nගන්න බෑ උණුසුම මේ",
+            "meaning": "ඔබට තියෙන ආදරය ශක්තිමත්",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "හිම කන්ද",
+            "target_domain": "ආදරය"
+        },
+        {
+            "lyrics_part": "අම්බරේ රං ඉර සේ\nමගෙ ලොවේ පෑයූවේ",
+            "meaning": "ඔබ මගේ ජීවිතයට ආලෝකයක් වුනා",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "ඉර",
+            "target_domain": "ජීවිතයට ආලෝකය"
+        },
+        {
+            "lyrics_part": "සඳ කිඳුරී",
+            "meaning": "ඇය ලස්සන බව කියැවීම",
+            "type": "සම්මත රූපකය",
+            "source_domain": "කිඳුරිය",
+            "target_domain": "ලස්සන"
+        }
+    ]
+}

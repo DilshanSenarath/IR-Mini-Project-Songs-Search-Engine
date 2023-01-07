@@ -1,26 +1,33 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
-    "genre": "",
-    "lyrics": "",
-    "lyricist": "",
-    "musician": "",
-    "singer": "",
+    "title": "වලා තීරයෙන් එහා",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත VOL. A (සජීවී)",
+    "genre": "පොප් සංගීතය, ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු ඉන්ඩි",
+    "lyrics": "වලා තීරයෙන් එහා\nකොහේද ලෝකයක්\nසොයා ඇදෙන් පැතුම් බිඟුන්\nඅපේම ලෝකයක්\nඅපේම ලෝකයක්\n\nවලා තීරයෙන් එහා\nකොහේද ලෝකයක්\nසොයා ඇදෙන් පැතුම් බිඟුන්\nඅපේම ලෝකයක්\nඅපේම ලෝකයක්\n\nතරංගයක් ලෙසින් ඇදී\nබිඳී නොයන් සිතින්\nවසන්තයක් ලෙසින් උදාව\nඑන්න ජීවිතෙන්\n\nවලා තීරයෙන් එහා\nකොහේද ලෝකයක්\nසොයා ඇදෙන් පැතුම් බිඟුන්\nඅපේම ලෝකයක්\nඅපේම ලෝකයක්\n\nසිහිල් සහන් සුසුම් සරින්\nපවන් රොදක් ලෙසින්\nනැවුම් පැතුම් අරන් වඩින්න\nපෙම් උයන් දොරින්\n\nවලා තීරයෙන් එහා\nකොහේද ලෝකයක්\nසොයා ඇදෙන් පැතුම් බිඟුන්\nඅපේම ලෝකයක්\nඅපේම ලෝකයක්",
+    "lyricist": "කුලරත්න ආරියවංශ",
+    "musician": "රෝහණ වීරසිංහ",
+    "singer": "ටී එම් ජයරත්න",
     "mp3_listen": {
-        "songhub": "",
-        "spotify": "",
-        "apple": ""
+        "songhub": "https://songhub.lk/song/walaa-theerayen-eha-cover-siyumini-opayangi",
+        "spotify": "https://open.spotify.com/track/0T0rGu0GL0O58C0QMIhZId?autoplay=true",
+        "apple": "https://music.apple.com/lk/album/wala-theerayen-feat-siyumini-opayangi-piano-version/1527342557?i=1527342781"
     },
-    "video_watch": "",
-    "download": "",
+    "video_watch": "https://www.youtube.com/watch?v=Pvs7YrgUv2g",
+    "download": "https://songhub.lk/song/c1e028b9-178b-4f15-b02f-aa132c8facc9/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "වලා තීරයෙන් එහා",
+            "meaning": "ඇත්තක් නොවෙන ලොවක්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අහස",
+            "target_domain": "ෆැන්ටසිය"
+        },
+        {
+            "lyrics_part": "තරංගයක් ලෙසින්",
+            "meaning": "නොදැනෙන ලෙස",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "තරංගය",
+            "target_domain": "නොදැනීම"
         }
     ]
 }
