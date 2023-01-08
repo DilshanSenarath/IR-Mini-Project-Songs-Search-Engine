@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "මා අහසේ ලියූ දේ",
+    "released_year": "2021",
+    "album": "නාද කවි (සජීවී)",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "මා අහසේ ලියූ දේ\nපෙනුනෙ නුඹට විතරමයි\nමා සුළගට කියූ දේ\nඇහුවේ කවුද නුඹ තමයි\nඑහෙව් නුඹට නොදැනුනේ\nනුඹට දුන්නු හිත තමයි\nමගේ කියා මට තිබුනේ\nඒ එක හිත විතරමයි\nවිතරමයි\nවිතරමයී\nවිතරමයී\n\nප්‍රාර්ථනා මහ කන්දේ\nකළුවර පාමුල උන්නේ මං\nනුඹේ නුරා තරු එළියෙන්\nකදු මුදුනට ගෙන නොගියා නම්\n\nඅදත් මා හිදීවී\nතවත් නුඹ පතාවී\n\nනුඹ ගැනම හිත හිතා ඉන්නට\nහිතවත් මට දේවී\n\n\nමා අහසේ ලියූ දේ\nපෙනුනෙ නුඹට විතරමය\nමා සුළගට කියූ දේ\nඇහුවේ කවුද නුඹ තමයි\nඑහෙව් නුඹට නොදැනුනේ\nනුඹට දුන්නු හිත තමයි\nමගේ කියා මට තිබුනේ\nඒ එක හිත විතරමයි\nවිතරමයි\nවිතරමයී\nවිතරමයී",
+    "lyricist": "යමුනා මාලනී පෙරේරා",
     "musician": "කසුන් කල්හාර",
-    "singer": "",
+    "singer": "ශශිකා නිසංසලා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/ma-ahase-liyu-de-shashika-nisansala",
         "spotify": "https://open.spotify.com/track/7qWBaBtyS0moE5JVl7G90r?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/66bed5c0-bd0a-11e9-8314-875a835f1b88/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ප්‍රාර්ථනා මහ කන්දේ",
+            "meaning": "පැතුමන් ගොඩක්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මහා කන්ද",
+            "target_domain": "විශාලත්වය"
         }
     ]
 }

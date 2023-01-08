@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "චන්ද්‍ර මන්ඩලේ සැතපුනු",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත වෙළුම. එ (සජීවී)",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "චන්ද්ර මණ්ඩලේ සැතපුන පුංචි සාවියේ\nමන්ද කියාපන් නොකියා හැංගිලා ගියේ\nපාන නිවුන සේ පාළුයි ලැයිම් කාමරේ\nමන්ද නුඹ ගියේ කියපන් පුංචි සාවියේ\n\nලාබ රත්තරන් දිලිසෙන පාළු වීදියේ\nගෑනු ළමයි පියාඹලා ඉස්සරත් ගියේ\nඋන්ට සෙයිලමේ මග තොට පාර වැරදුනේ\nඅන්න ඒ නිසයි මට දුක රත්තරන් දුවේ\n\n\nචන්ද්ර මණ්ඩලේ සැතපුන පුංචි සාවියේ\nමන්ද කියාපන් නොකියා හැංගිලා ගියේ\n\nමාල බැදන් සුදු යකඩින් රෝස මල් වනේ\nමාල ගිරව් ගේ දොරකඩ සින්දු කිව් වෙලේ\nහීනෙනුත් හිතුනේ නෑ මට මොකද කාරනේ\nපාර මතක නම් තාමත් ගේ ලඟයි දුවේ\n\nචන්ද්ර මණ්ඩලේ සැතපුන පුංචි සාවියේ\nමන්ද කියාපන් නොකියා හැංගිලා ගියේ\nපාන නිවුන සේ පාළුයි ලැයිම් කාමරේ\nමන්ද නුඹ ගියේ කියපන් පුංචි සාවියේ",
+    "lyricist": "රත්න ශී විජේසිංහ ",
     "musician": "රෝහණ වීරසිංහ",
-    "singer": "",
+    "singer": "රොහන වීරසිංහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/chandra-mandale-sathapuna-punchi-saviye-sunil-edirisinghe",
         "spotify": "https://open.spotify.com/track/16htGp6gm0CCaDoqw4hkRO?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/66a5ba00-bd0a-11e9-9070-0be4b9482e1e/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "චන්ද්ර මණ්ඩලේ සැතපුන පුංචි සාවියේ",
+            "meaning": "සද මඩලක මෙන් සුව සේ නිදාගෙන සිටින පුංචි ගැහුනු ළමය",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පුංචි සාවියේ",
+            "target_domain": "පුංචි ගැහුනු ළමයෙක්"
         }
     ]
 }

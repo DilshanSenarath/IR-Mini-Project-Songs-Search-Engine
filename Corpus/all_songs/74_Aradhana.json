@@ -1,12 +1,12 @@
 {
-    "title": "",
+    "title": "ආරාධනා",
     "released_year": "",
-    "album": "",
+    "album": "ජීවිතයේ තනි මංසල",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු ඉන්ඩි, පොප්, ගසල්, ඉන්දියානු ජන",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ආරාධනා\nආරාධනා\n\nජීවිතයේ තනි මංසල අතරමං වෙලා\nහුදෙකලාව සුසුම් හෙළන හදවත සනහා\nඅතීතයේ ගිලිහී ගිය සතුට\nරැගෙන යළි වඩින්න\nආරාධනා\nආරාධනා\n\nනෙළු සුපෙම් කැටයම් හද පවුරුතලාවේ\nමැකී ගියාදෝ – කාලයේ වෙරළේ\nජීවිතයේ දිගු ගමනේ අනාථ වූ දා\nසෙනේහයේ සත් පියුමන් යළිඳු පිපේවා\nආරාධනා\nආරාධනා\n\nඑදා සිඟිති කිරි සුවඳින් යුගදිවි අරණේ\nඔබේ උණුසුමේ යළිදු උපන්නෙම්\nබිඳුණු එවන් රජ දහනින් සමුගෙන යනදා\nඔබේ නුවන් පහනින් යළි එළිය ලැබේවා\nආරාධනා\nආරාධනා",
+    "lyricist": "කුලරත්න ආරියවංශ",
     "musician": "ඩබ්ලිව් ඩී අමරදේව",
-    "singer": "",
+    "singer": "ඩබ්ලිව් ඩී අමරදේව",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/aradhana-w-d-amaradeva",
         "spotify": "https://open.spotify.com/track/3WbcMlr9SlR2vXUpIFssnL?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/62ed0280-bd0a-11e9-ac05-11e6d17a0b3f/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "නෙළු සුපෙම් කැටයම් හද පවුරුතලාවේ",
+            "meaning": "ආදරනීය හැගුමන් මැවුවා හදවතෙ",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "නෙළු සුපෙම් කැටයම්",
+            "target_domain": "ආදරනීය හැගුමන්"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "එක යායේ",
+    "released_year": "2013",
+    "album": "චාමර සලුනාවේ, වෙළුම. 2",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "එක යායේ කකා වැටී\nඑකා වගේ එකට හිටී\nඑක පවුලේ උපන් ලෙසේ කල ආරස්සා\nනාස් ලණුව දමනවාලු කරත්තයක බඳිනවාලු\nඅපට හිටිය ළපටි කැකුළු නාඹර වස්සා\n\nගෙට ආ කල ටිකිරි ලියා\nනුඹ වේවිලු කබර ගොයා\nළිඳට ගියත් අවසරයක් ගන්නට වේවී\nදළ ගලවා අතේ තියා නුඹ නටවයි ඒ ළමයා\nපනවාලා දරුණු දණ්ඩ බන්ධන නීතී\n\nඑක යායේ කකා වැටී\nඑකා වගේ එකට හිටී\nඑක පවුලේ උපන් ලෙසේ කල ආරස්සා\nනාස් ලණුව දමනවාලු කරත්තයක බඳිනවාලු\nඅපට හිටිය ළපටි කැකුළු නාඹර වස්සා\n\nවළට වැටුණු එකා යකා\nවළටම ඇද ගනු මිසකා\nවළෙන් උඩට එන්නට අත දෙන්නට කැමතී\nනෑදෑ හිතවතෙක් නැතී ඒ ගැන හිතුවොත් යෙහෙකී\nකසාදෙ නං කසාය හරි තිත්ත බේතකි\n\nඑක යායේ කකා වැටී\nඑකා වගේ එකට හිටී\nඑක පවුලේ උපන් ලෙසේ කල ආරස්සා\nනාස් ලණුව දමනවාලු කරත්තයක බඳිනවාලු\nඅපට හිටිය ළපටි කැකුළු නාඹර වස්සා",
+    "lyricist": "ප්‍රේමකීර්ති ද අල්විස්",
     "musician": "එච්.එම් ජයවර්ධන",
-    "singer": "",
+    "singer": "සුනිල් එදිරිසිංහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/eka-yaye-kaka-wati-edward-jayakody-sunil-edirisinghe-bandula-wijeweera",
         "spotify": "https://open.spotify.com/track/266VigyqPXbXIUk75WJ4z4?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/63beb0e0-bd0a-11e9-93af-1f92db3cde92/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "නාස් ලණුව දමනවාලු",
+            "meaning": "ඔහුගෙ පාලනය ඇයගෙ අතට ගැනීම",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "නාස් ලණුව",
+            "target_domain": "විවාහය"
         }
     ]
 }

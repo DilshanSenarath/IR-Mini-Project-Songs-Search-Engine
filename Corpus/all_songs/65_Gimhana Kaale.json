@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ගිම්හාන කාලේ",
+    "released_year": "2020",
+    "album": "ගිම්හාන කාලේ",
     "genre": "පොප්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ගිම්හාන කාලේ\nසිත්යායෙ ගෑවිලා\nලංවේද මා ආයේ දෑසේ\nසිත් මාගේ පෑරේද\nවස්සානෙ වාගේ\nසංකා නොදී\nපාව ඒදෝ මා සොයා\n\nපෙර වේදනා ගෙනා\nපාව ගිය පාළු ජීවිතේ\nයලි චෝදනා එපා\nදෑත බැඳි සීත හෝරාවේ\nහද යාවෙලා සදා\nපෑහි ඉමු මේ වාගේ\nපිදු ආදරේ නිසා\nමාගේ හද ආශාවේ\n\nනන්නාද වේ සිනා\nශෘංගාරේ වෑහෙනා\nසංතාප හෝරාව පාවීලා\nනිම්නාද පාවේලා\nපින්තාරෙ ගෑවිලා\nකැන්දා ගෙනා\nහීන ගෑවෙයි රෑ පුරා\n\nපෙර වේදනා ගෙනා\nපාව ගිය පාළු ජීවිතේ\nයලි චෝදනා එපා\nදෑත බැඳි සීත හෝරාවේ\nහද යාවෙලා සදා\nපෑහි ඉමු මේ වාගේ\nපිදු ආදරේ නිසා\nමාගේ හද ආශාවේ\n\nනිස්සාර කාරණා\nඇස් ගාව තෝරලා\nහිංසාව නෑ මාව පාරාලා\nසිත් මාගේ සාදලා\nසත් පාට ගාවලා\nකැන්දා ගෙනා\nහීන ගෑවෙයි රෑ පුරා\n\nපෙර වේදනා ගෙනා\nපාව ගිය පාළු ජීවිතේ\nයලි චෝදනා එපා\nදෑත බැඳි සීත හෝරාවේ\nහද යාවෙලා සදා\nපෑහි ඉමු මේ වාගේ\nපිදු ආදරේ නිසා\nමාගේ හද ආශාවේ",
+    "lyricist": "ශෙහාන් ගලහිටියාව",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "ශශිකා නිසංසලා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/gimhana-kale-sparsha-shashika-nisansala",
         "spotify": "https://open.spotify.com/track/4dwspKBwYqs0SpwV10DA47?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/ed41ac14-0dea-4cce-b551-ef71b7eee48a/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "පෙර වේදනා ගෙනා\nපාව ගිය පාළු ජීවිතේ",
+            "meaning": "පෙර වේදනාවන් අවසන් උන පාළු ජීවිතේ",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පාව ගිය",
+            "target_domain": "අවසන් උන"
         }
     ]
 }

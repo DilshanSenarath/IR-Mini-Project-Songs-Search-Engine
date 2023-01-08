@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "අවපස අහසක",
+    "released_year": "2020",
+    "album": "ඉහළම සිංහල ගීත වෙළුම. එ (සජීවී)",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, ගසල්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "අවපස අහසක තරු ලකුණක් සේ\nඅපමණ සයුරක තුරු දසුනක් සේ\nදිගු දිවි ගමනේ\nඉම ඔබ රැදුනේ...\n\nමාවත අවහිර නිමවා\nදළ රළ පෙළ සැතපෙනවා\nසැලමුතු සෙනෙහස මද පවනක් වී\nගැබරේ නිම මුමුනනවා...\n\nදෝතක අසෙනිය ගවසා\nඔබ පෙරමග හිනැහෙනවා\nවිකසිත සිහිනේ සුබ කවියක් වී\nදෙනෙතේ සිත ලියවෙනවා...\n\nඅවපස අහසක තරු ලකුණක් සේ\nඅපමණ සයුරක තුරු දසුනක් සේ\nදිගු දිවි ගමනේ\nඉම ඔබ රැදුනේ...\n\nඅවපස අහසක තරු ලකුණක් සේ\nඅපමණ සයුරක තුරු දසුනක් සේ\nදිගු දිවි ගමනේ\nඉම ඔබ රැදුනේ...",
+    "lyricist": "රෝහන වීරසිංහ",
     "musician": "රෝහණ වීරසිංහ",
-    "singer": "",
+    "singer": "සුනිල් එදිරිසිංහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/awapasa-ahasaka-tharu-lakunak-se-sunil-edirisinghe",
         "spotify": "https://open.spotify.com/track/6TBJ99uoayaEGjQQ3AMX96?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/c5924f20-cf93-11e9-999b-51755bb6e7cf/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "දෝතක අසෙනිය ගවසා\nඔබ පෙරමග හිනැහෙනවා",
+            "meaning": "අතෙහි මල් ගවසාගෙන මනාලියක් වී විවාහ වීමට බලා සිටියි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "අසෙනිය ගවසා",
+            "target_domain": "මල් ගවසාගෙන"
         }
     ]
 }

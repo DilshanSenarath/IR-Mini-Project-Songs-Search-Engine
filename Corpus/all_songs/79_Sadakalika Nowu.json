@@ -1,12 +1,12 @@
 {
-    "title": "",
+    "title": "සදාකාලික නොවූ",
     "released_year": "",
     "album": "",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "සදාකාලික නොවූ ලෝකේ\nසදාකාලික ප්රේමයක්\nසොයා නෙක ගම් දනව් පීරා\nගෙවූ කාලය සිහිනයක්\n\nමගේ දුක දැක ඔබේ දෙනයන\nඋපන් කඳුළින් සේදිලා\nමගේ දුක දැක ඔබේ දෙනයන\nඋපන් කඳුළින් සේදිලා\nඔබේ වත නොව ඔබේ හදවත\nපුරා සඳ සේ පෑදිලා\n\nසදාකාලික නොවූ ලෝකේ\nසදාකාලික ප්රේමයක්\nසොයා නෙක ගම් දනව් පීරා\nගෙවූ කාලය සිහිනයක්\n\nඑදා ළඟ සිට දුටුව ඔබ නොව\nමෙදා දුර සිට මා දකින්නේ\nඑදා ළඟ සිට දුටුව ඔබ නොව\nමෙදා දුර සිට මා දකින්නේ\nසදාකාලික නොවූ ලෝකයෙ\nසදා කෙලෙස ද පෙම් බඳින්නේ\n\nසදාකාලික නොවූ ලෝකේ\nසදාකාලික ප්රේමයක්\nසොයා නෙක ගම් දනව් පීරා\nගෙවූ කාලය සිහිනයක්",
+    "lyricist": "ආනන්ද අමරසිරි",
     "musician": "රෝහණ වීරසිංහ",
-    "singer": "",
+    "singer": "සුනිල් එදිරිසිංහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/sadakalika-nowu-loke-sadakalika-premayak-sunil-edirisinghe",
         "spotify": "",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/66b54310-bd0a-11e9-941c-fd415873f6fc/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "එදා ළඟ සිට දුටුව ඔබ නොව\nමෙදා දුර සිට මා දකින්නේ",
+            "meaning": "ඇය පෙර සිටියාට වඩා වෙනස් වී ඇති බව හැගෙයි",
+            "type": "විස්තීරණ රූපකය",
+            "source_domain": "එදා ළඟ, මෙදා දුර",
+            "target_domain": "වෙනස් වී ඇති බව"
         }
     ]
 }
