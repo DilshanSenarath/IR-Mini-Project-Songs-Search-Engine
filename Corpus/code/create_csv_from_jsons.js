@@ -20,12 +20,15 @@ for (let file of song_files) {
     songs_list.push(song);
 }
 
+songs_list.sort((a, b) => b.metaphor.length - a.metaphor.length);
+
 const filename = "../final_csv/corpus.csv";
 const writableStream = fs.createWriteStream(filename);
 
 const columns = [
     "id",
     "title",
+    "released_year",
     "album",
     "genre",
     "lyrics",
@@ -70,6 +73,7 @@ for (let song of songs_list) {
     row = [];
     row.push(song.id);
     row.push(song.title);
+    row.push(song.released_year);
     row.push(song.album);
     row.push(song.genre);
     row.push(song.lyrics);
@@ -81,6 +85,10 @@ for (let song of songs_list) {
     row.push(song.mp3_listen.songhub);
     row.push(song.video_watch);
     row.push(song.download);
+
+    if (song.metaphor.length > 5) {
+        console.log("Metaphor count exceeded than 5");
+    }
 
     for (let m of song.metaphor) {
         row.push(m.lyrics_part);
@@ -98,7 +106,6 @@ for (let song of songs_list) {
     }
 
     stringifier.write(row);
-    break;
 }
 
 stringifier.pipe(writableStream);
