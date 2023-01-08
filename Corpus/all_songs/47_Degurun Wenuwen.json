@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "දෙගුරුන් වෙනුවෙන්",
+    "released_year": "2018",
+    "album": "සුභා කියා",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "දෙගුරුන් වෙනුවෙන් සෙනෙහස බිළිදී\nගියත් මැකී ඔබ මගේ ලොවින්\nහද බැඳි කුළුඳුල් සෙනෙහස නොසිඳී\nසදා රැඳෙනු ඇත ඔබේ නමින්\n\nවෙන්වී යන මුත් දුරින් දුරට ඔබ\nමෙසේ දුරස් වී ගතින් නොවේ\nතනි නොකරමි ඔබ දිවි ඇති තුරු මම\nරැඳී සිටින්නෙමි සිතින් ළඳේ\n\nකඳුලින් සමුගෙන වෙන්වී යන මුත්\nසුසුමක රඳවා පැතුම් මෙසේ\nබැඳි සිත් නොබිඳින ලෝවකදි සසරේ\nහමුවෙමු මතු අපි භවෙන් භවේ\n\nදෙගුරුන් වෙනුවෙන් සෙනෙහස බිළිදී\nගියත් මැකී ඔබ මගේ ලොවින්\nහද බැඳි කුළුඳුල් සෙනෙහස නොසිඳී\nසදා රැඳෙනු ඇත ඔබේ නමින්",
+    "lyricist": "කුලරත්න ආරියවංශ",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "පුන්සිරි සොයිසා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/degurun-wenuwen-punsiri-soyza",
         "spotify": "https://open.spotify.com/track/00AQqSb1I8XVzfHJiOb4mU?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/677a6cd0-bd0a-11e9-b7d0-e9386c4d0c52/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ගියත් මැකී ඔබ මගේ ලොවින්",
+            "meaning": "ඇය ඔහුගෙන් සමු ගෙන ඇති බව හැගවෙයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මැකී",
+            "target_domain": "ඈත් වී"
+        },
+        {
+            "lyrics_part": "හද බැඳි කුළුඳුල් සෙනෙහස නොසිඳී",
+            "meaning": "කුළුඳුල් ආදරය සිතින් අමතක කල නොහැකි බව",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "කුළුඳුල් සෙනෙහස",
+            "target_domain": "ප්‍රථම ආදරය"
         }
     ]
 }

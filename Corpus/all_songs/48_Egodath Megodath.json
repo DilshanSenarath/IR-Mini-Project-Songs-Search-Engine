@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "එගොඩත් මෙගොඩත්",
+    "released_year": "2018",
+    "album": "සුභා කියා",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "එගොඩත් මෙගොඩත් ගම් යා කරලා\nපාලම සාදා බලා සිටින්නේ\nඔබ මා වෙත පිය නගන තුරා\nඔබ මා වෙත පිය නගන තුරා\n\nපෙර ලෙස අබලන් ඔරුවේ නැගලා\nඑගොඩට යන්නට ඇයිද සිතන්නේ\nසිහිය විකල් වූ කෙනෙකු නියා\nසිහිය විකල් වූ කෙනෙකු නියා\n\nඑගොඩත් මෙගොඩත් ගම් යා කරලා\nපාලම සාදා බලා සිටින්නේ\nඔබ මා වෙත පිය නගන තුරා\nඔබ මා වෙත පිය නගන තුරා\n\nමල්බර තුරුලිය, පීදෙන කෙත් වතු\nඅප හට ආසිරි පවසනු වැන්නේ\nවඩිනු මැනවි පා සලඹ සලා\nවඩිනු මැනවි පා සලඹ සලා\n\nඑගොඩත් මෙගොඩත් ගම් යා කරලා\nපාලම සාදා බලා සිටින්නේ\nඔබ මා වෙත පිය නගන තුරා\nඔබ මා වෙත පිය නගන තුරා",
+    "lyricist": "එච් කුසුමපාල",
     "musician": "ස්ටැන්ලි එම් ප්‍රනාන්දු",
-    "singer": "",
+    "singer": "පුන්සිරි සොයිසා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/egodath-megodath-leya-saha-laya-punsiri-soyza-sathmini-soysa",
         "spotify": "https://open.spotify.com/track/4l7mTTnBtFV9uZiiFJTTz7?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/e076cd62-ffa4-4879-b2bd-4ba7a13e7f0a/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "එගොඩත් මෙගොඩත් ගම් යා කරලා\nපාලම සාදා බලා සිටින්නේ",
+            "meaning": "දෙදෙනාට එකතු වීමට අවශ්‍ය සියලු දේවල් සාදා බලා සිටින බව",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පාලම",
+            "target_domain": "අවශ්‍ය සියලු දේවල්"
         }
     ]
 }

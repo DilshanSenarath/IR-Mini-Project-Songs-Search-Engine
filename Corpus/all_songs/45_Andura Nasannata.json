@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "අදුර නසන්නට",
+    "released_year": "2018",
+    "album": "සුභා කියා",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "අදුර නසන්නට පහනක් ලෙස දැල්වී\nහත්දින්නක් තරු පොකුරේ ඔබ සැගවේ\n\nඅදුර නසන්නට පහනක් ලෙස දැල්වී\nහත්දින්නක් තරු පොකුරේ ඔබ සැගවේ\n\nමට අහිමිව යන ඔබේ සිනා කැකුලයි\nසමුගන්නට බෑ හිතේ හැගුම් සසලයි\nහිත් රිවන්නට සෙනෙහස මෝදු වෙලා\nඅපි දෙන්නා අද දෙතැනක නතර වෙලා\n\nඅදුර නසන්නට පහනක් ලෙස දැල්වී\nහත්දින්නක් තරු පොකුරේ ඔබ සැගවේ\nදෙසිතක සැගවුන සෙනෙහස මාතක තියේ\nහඩාවැටෙන්නට අපි නොදරුවන් නොවේ\nමට දුන් සවියම ඔබට සවිය වේවා\n\nතහනම් බැමි නැති ලොවකදි හමු වේවා\nඅදුර නසන්නට පහනක් ලෙස දැල්වී\nහත්දින්නක් තරු පොකුරේ ඔබ සැගවේ\nඅදුර නසන්නට පහනක් ලෙස දැල්වී\nහත්දින්නක් තරු පොකුරේ ඔබ සැගව",
+    "lyricist": "කුලරත්න ආරියවංශ",
     "musician": "ප්‍රියා සූරියසේන",
-    "singer": "",
+    "singer": "පුන්සිරි සොයිසා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/andura-nasannata-pahanak-lesa-punsiri-soyza",
         "spotify": "https://open.spotify.com/track/66dnEsgbLi204cmTqEbcKn?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/68f41b30-bd0a-11e9-89ff-f5d483c62868/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "අදුර නසන්නට පහනක් ලෙස දැල්වී",
+            "meaning": "ඇය ඔහුගේ ජීවිතය ආලෝක්වත් කරන බව",
+            "type": "සම්මත රූපකය",
+            "source_domain": "පහනක්",
+            "target_domain": "ජීවිතය ආලෝක්වත් කරයි"
         }
     ]
 }

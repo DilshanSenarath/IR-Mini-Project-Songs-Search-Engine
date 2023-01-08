@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ඇව්ලුණු ගිනිදැල්",
+    "released_year": "2018",
+    "album": "එදා මෙදා තුර",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ඇව්ලුණු ගිනිදැල් නිවි නිවි යද්දී\nඈ මට හමුවූවා\nසුපිපුණු වනමල් සුවඳ හමද්දී\nඈ මට හමුවූවා\n\nඇව්ලුණු ගිනිදැල් නිවි නිවි යද්දී...\n\nරන් කෙඳි දහරින් පෙරි පෙරි ඉතිරී\nරන් කෙඳි දහරින් පෙරි පෙරි ඉතිරී\nහිරු අවරට ඇදුනා\nපාළුව තනිකම රජයන විටදී\nපාළුව තනිකම රජයන විටදී\nඈ මට හමුවූවා\n\nඇව්ලුණු ගිනිදැල් නිවි නිවි යද්දී\nඈ මට හමුවූවා\nඇවිලුණු ගිනිදැල් නිවි නිවි යද්දී...\n\nසුසිනිඳු සළුවක් සුළඟට ඇඹරී\nසුසිනිඳු සළුවක් සුළඟට ඇඹරී\nරහසක් මට කීවා\nසුදු මුදු වැල්ලේ සිටියදී තනිවී\nසුදු මුදු වැල්ලේ සිටියදී තනිවී\nඈ මට හමුවූවා\n\nඇව්ලුණු ගිනිදැල් නිවි නිවි යද්දී\nඈ මට හමුවූවා\nසුපිපුණු වනමල් සුවඳ හමද්දී\nඈ මට හමුවූවා",
+    "lyricist": "විමලධර්ම ජයවීර",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "සනත් නන්දසිරි",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/avilunu-ginidal-nivi-nivi-yaddi-sanath-nandasiri",
         "spotify": "https://open.spotify.com/track/7dsmnzfc812smYVFxPUWx6?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/67e77e60-bd0a-11e9-a7e2-31708555a560/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "සුපිපුණු වනමල් සුවඳ හමද්දී",
+            "meaning": "වනමල් පිපෙන්නේ රාත්‍රී කාලයේ නිසා මෙමගින් රාත්‍රී කාලයක් පිලිබිඹු කරයි.",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සුපිපුණු වනමල්",
+            "target_domain": "රාත්‍රී කාලය"
         }
     ]
 }

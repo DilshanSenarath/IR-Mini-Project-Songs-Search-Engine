@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "සීත රෑ වසන්තේ",
+    "released_year": "2011",
+    "album": "දුලීකා",
     "genre": "විකල්ප/ඉන්ඩි",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "සීත රෑ වසන්තේ\nකාටදෝ ගයන්නේ\nප්රේම ගී ගැයෙන්නේ\nකාටදෝ නොදන්නේ\n\nසීත රෑ වසන්තේ\nකාටදෝ ගයන්නේ\nප්රේම ගී ගැයෙන්නේ\nකාටදෝ නොදන්නේ\n\nනොසැලී කියන්\nගීතේ ඔබේ\nමා නිසා නොවේදෝ\n\nනීල සාගරේ\nපාර පෙන්වනා\nතාරකාව වී\nරෑක පායමී\nරෑක පායමී\n\nසීත රෑ වසන්තේ\nකාටදෝ ගයන්නේ\nප්රේම ගී ගැයෙන්නේ\nකාටදෝ නොදන්නේ\n\nනොසැලී කියන්\nගීතේ ඔබේ\nමා නිසා නොවේදෝ\n\nජීවිතේ අපේ\nවේදනා නිවී\nමේ භවේ පුරා\nවාසනා ගෙනේ\nවාසනා ගෙනේ\n\nසීත රෑ වසන්තේ\nකාටදෝ ගයන්නේ\nප්රේම ගී ගැයෙන්නේ\nකාටදෝ නොදන්නේ\n\nසීත රෑ වසන්තේ\nකාටදෝ ගයන්නේ\nප්රේම ගී ගැයෙන්නේ\nකාටදෝ නොදන්නේ\n\nනොසැලී කියන්\nගීතේ ඔබේ\nමා නිසා නොවේදෝ",
+    "lyricist": "සුනිල් ආරියරත්න",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "සනත් නන්දසිරි",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/seetha-ra-wasanthe-sanath-nandasiri-malkanthi-nandasiri",
         "spotify": "",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/67f40ae0-bd0a-11e9-840e-979a23ee0b6b/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "නීල සාගරේ",
+            "meaning": "ජීවිත ගමන",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "සාගරය",
+            "target_domain": "ජීවිත ගමන"
+        },
+        {
+            "lyrics_part": "පාර පෙන්වනා\nතාරකාව වී",
+            "meaning": "ජීවිත ගමනේ හරි මාර්ගය කියාදෙන කෙනා",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "තාරකාව",
+            "target_domain": "මාර්ගය කියාදෙන"
         }
     ]
 }

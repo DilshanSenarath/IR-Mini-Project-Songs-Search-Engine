@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "බිඳුවක් ඉවසා",
+    "released_year": "2018",
+    "album": "සුභා කියා",
     "genre": "හමු වුණේ නැත",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "බිඳුවක් ඉවසා අහන්න හිතවත\nඅහන්න හිතවත\nඈ මගේ පෙම්වතියයි\nකිසිදා නොලබන පෙමක් පතා ඔබ\nඇය රිදවනු වැරදියි\nඇය රිදවනු වැරදියි\nමා ඇය හඳුනා ගන්නට පෙර සිට\nමා ඇය හඳුනා ගන්නට පෙර සිට\nඔබ ඇය හඳුනා සිටි නමුදු\nඔබට නොවේ ඈ මටයි පෙම් කළේ\nදුක් නොම දෙනු ළඳකට එබඳු\nබිඳුවක් ඉවසා අහන්න හිතවත\nඅහන්න හිතවත\nඈ මගේ පෙම්වතියයි\nකිසිදා නොලබන පෙමක් පතා ඔබ\nඇය රිදවනු වැරදියි\nඇය රිදවනු වැරදියි\nකුරුළු කිරිල්ලන් කූඩු තැනූ පසු\nකුරුළු කිරිල්ලන් කූඩු තැනූ පසු\nසිඳ බිඳ වනසාලනු හරි නෑ\nසොයුරු පෙමින් ඔබේ ඇසුර පැතූ ඈ\nවරදක පොලඹන සිත යුතු නෑ\nබිඳුවක් ඉවසා අහන්න හිතවත\nඅහන්න හිතවත\nඈ මගේ පෙම්වතියයි\nකිසිදා නොලබන පෙමක් පතා ඔබ\nඇය රිදවනු වැරදියි\nඇය රිදවනු වැරදියි",
+    "lyricist": "සමන් චන්ද්‍රනාත් වීරසිංහ",
     "musician": "ස්ටැන්ලි එම් ප්‍රනාන්දු",
-    "singer": "",
+    "singer": "පුන්සිරි සොයිසා",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/binduwak-iwasa-leya-saha-laya-sathmini-soysa-punsiri-soyza",
         "spotify": "https://open.spotify.com/track/6jnB2FnV7Hp6o1VlV0E7kf?autoplay=true",
@@ -16,11 +16,11 @@
     "download": "https://songhub.lk/song/523551aa-1347-4f53-baa2-ee93eabc10e4/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "කුරුළු කිරිල්ලන් කූඩු තැනූ පසු\nසිඳ බිඳ වනසාලනු හරි නෑ",
+            "meaning": "ආදරය කරන දෙදෙනෙකුගේ සම්බන්ධය බිදදමනු හොද නෑ",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "කුරුළු කිරිල්ලන්",
+            "target_domain": "ආදරවන්තයන්"
         }
     ]
 }

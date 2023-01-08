@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "ඔබ මලක් වෙලා",
+    "released_year": "2007",
+    "album": "ඔබ මලක් වෙලා",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්, ඉන්දියානු ජන",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "ඔබ මලක් වෙලා වන අරණේ පිපේවී\nමා සුළං රැලක් වී ඔබ පිස හමාවී\nපුර සඳක් වෙලා ඔබ අහසේ දිලේවී\nමා ගඟක් වෙලා සඳ එළියේ ගලාවී\n\n\nසුළඟ වෙසින් මා එන කල\nඔබෙි සුවඳ සෑහේ මට\nමල් මුවරද ඔබ සමඟයි\nමලේ සුවඳ මා අසලයි\n\n\nඔබ මලක් වෙලා වන අරණේ පිපේවී\nමා සුළං රැලක් වී ඔබ පිස හමාවී\nපුර සඳක් වෙලා ඔබ අහසේ දිලේවී\nමා ගඟක් වෙලා සඳ එළියේ ගලාවී\n\n\nගඟක් වෙලා මා යන කල\nඔබේ එලිය සෑහේ මට\nපුර සඳ නිලඹර සමඟයි\nසඳේ එළිය මා අසලයි\n\n\nඔබ මලක් වෙලා වන අරණේ පිපේවී\nමා සුළං රැලක් වී ඔබ පිස හමාවී\nපුර සඳක් වෙලා ඔබ අහසේ දිලේවී\nමා ගඟක් වෙලා සඳ එළියේ ගලාවී",
+    "lyricist": "සුනිල් ආරියරත්න",
     "musician": "සෝමතිලක ජයමහ",
-    "singer": "",
+    "singer": "සෝමතිලක ජයමහ",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/oba-malak-wela-wana-arane-pipewi-somathilaka-jayamaha",
         "spotify": "https://open.spotify.com/track/74VcKOkdLR3RBmgS1uqJ9w?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/68593eb0-bd0a-11e9-a200-e70a0c5c80e4/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "ගඟක් වෙලා මා යන කල\nඔබේ එලිය සෑහේ මට\nපුර සඳ නිලඹර සමඟයි\nසඳේ එළිය මා අසලයි",
+            "meaning": "ගංගාව සහ සඳ එකතු නොවුවත් ගංගාව සඳ එලිය දකින්නාක් මෙන්, ඔහු ඇයව දැකීමෙන් සෑහීමකට පත්වේ. ඇයත් වෙන කෙනෙක් ලග සිටියත්, ඔහුට සිතින් ප්‍රෙම කරයි.",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "පුර සඳ නිලඹර",
+            "target_domain": "ආදරවන්තිය හා ඇගේ ස්වාමියා"
+        },
+        {
+            "lyrics_part": "මලේ සුවඳ මා අසලයි",
+            "meaning": "ඇයගේ ආදරය ඔහු සමගයි",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "මලේ සුවඳ",
+            "target_domain": "ආදරය"
         }
     ]
 }

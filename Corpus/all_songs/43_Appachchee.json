@@ -1,12 +1,12 @@
 {
-    "title": "",
-    "released_year": "",
-    "album": "",
+    "title": "අප්පච්චී",
+    "released_year": "2004",
+    "album": "රැඩිකල් ප්‍රේමය",
     "genre": "ඉන්දියානු චිත්‍රපට පොප්",
-    "lyrics": "",
-    "lyricist": "",
+    "lyrics": "සියක් උල්පත් මවා දී\nනිසලවම හිඳිනා\nනමක් නැති මහ කන්ද ඔබ\nඅප්පච්චී, අප්පච්චී\n\nඔබෙන් දිය ලැබ සාර වූ\nතුරුණු කෙත්වතු දෙස බලා\nනොපෙනෙනා තරමින් සිනාසී\nනිසලවම හිඳිනා\nඅප්පච්චී, අප්පච්චී\n\nමෙහෙවරට ආවැයි සිතා\nවෙහෙස නොබලා වෙහෙසෙනා\nතෙත් ගුණය මෙත් ගුණය සඟවා\nඅකම්පිත වත පා\nඅප්පච්චී, අප්පච්චී\n\nසියක් උල්පත් මවා දී\nනිසලවම හිඳිනා\nනමක් නැති මහ කන්ද ඔබ\nඅප්පච්චී, අප්පච්චී",
+    "lyricist": "කසුන් කල්හාර",
     "musician": "හමු වුණේ නැත",
-    "singer": "",
+    "singer": "කසුන් කල්හාර",
     "mp3_listen": {
         "songhub": "https://songhub.lk/song/siyak-ulpath-appachchi-kasun-kalhara",
         "spotify": "https://open.spotify.com/track/7Bi5QTu32YYOAokSdcfluP?autoplay=true",
@@ -16,11 +16,18 @@
     "download": "https://songhub.lk/song/64cfdc80-bd0a-11e9-b9d7-25078aa5f12c/download?token=iTkadM41D8xpU74KmLUs23B9yKhqSXloITvBx6Dt",
     "metaphor": [
         {
-            "lyrics_part": "",
-            "meaning": "",
-            "type": "",
-            "source_domain": "",
-            "target_domain": ""
+            "lyrics_part": "සියක් උල්පත් මවා දී\nනිසලවම හිඳිනා",
+            "meaning": "පියා දරුවන්ට හොදම දේවල් ලබා දෙන බව",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "උල්පත්",
+            "target_domain": "දැනුම, සැප සම්පත්"
+        },
+        {
+            "lyrics_part": "ඔබෙන් දිය ලැබ සාර වූ\nතුරුණු කෙත්වතු දෙස බලා",
+            "meaning": "ගුරුවරයාගෙන් දැනුම ලබ හොදින් ජීවත් වෙන සිසුන්",
+            "type": "ව්යංග රූපකය",
+            "source_domain": "දිය",
+            "target_domain": "දැනුම, ආකල්ප"
         }
     ]
 }
