@@ -6,6 +6,14 @@ app = Flask(__name__)
 def index():
     return render_template('index.html',response=None)
 
+@app.route('/results')
+def results():
+    return render_template('results.html',response=None)
+
+@app.route('/result')
+def result():
+    return render_template('result.html',response=None)
+
 # @app.route('/search',methods=["POST"])
 # def search():
 #     res = []
