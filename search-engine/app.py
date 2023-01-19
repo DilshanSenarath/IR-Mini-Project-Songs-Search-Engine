@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+from query_processor import QueryProcessor
 
 app = Flask(__name__)
 
@@ -13,6 +14,28 @@ def results():
 @app.route('/result')
 def result():
     return render_template('result.html',response=None)
+
+@app.route('/test', methods=["GET"])
+def test():
+    if(request.method == "GET"):
+        query = request.args['query']
+        singer = None
+        lyricist = None 
+        musician = None
+        if ('singer' in request.args):
+            singer = request.args['singer']
+        if ('lyricist' in request.args):
+            lyricist = request.args['lyricist']
+        if ('musician' in request.args):
+            musician = request.args['musician']
+        
+        qp = QueryProcessor(query, singer, lyricist, musician)
+        qp.preprocess()
+
+        res = qp.execute()
+
+    
+    return render_template('test.html',response=res)
 
 # @app.route('/search',methods=["POST"])
 # def search():

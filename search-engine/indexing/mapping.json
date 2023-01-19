@@ -1,0 +1,215 @@
+{
+    "settings": {
+        "index": {
+            "number_of_shards": 1,
+            "number_of_replicas": 1
+        },
+        "analysis": {
+            "analyzer": {
+                "sinhala-analyzer-with-ngram": {
+                    "type": "custom",
+                    "tokenizer": "icu_tokenizer",
+                    "char_filter": [
+                        "sinhala_punctuation_filter"
+                    ],
+                    "filter": [
+                        "stop_word_filter",
+                        "edge_ngram_filter"
+                    ]
+                },
+                "sinhala-analyzer-without-ngram": {
+                    "type": "custom",
+                    "tokenizer": "icu_tokenizer",
+                    "char_filter": [
+                        "sinhala_punctuation_filter"
+                    ],
+                    "filter": [
+                        "stop_word_filter"
+                    ]
+                },
+                "sinhala-search-analyzer": {
+                    "type": "custom",
+                    "tokenizer": "standard",
+                    "char_filter": [
+                        "sinhala_punctuation_filter"
+                    ]
+                }
+            },
+            "char_filter": {
+                "sinhala_punctuation_filter": {
+                    "type": "mapping",
+                    "mappings": [
+                        ".=>",
+                        "|=>",
+                        "-=>",
+                        "_=>",
+                        "'=>",
+                        "/=>",
+                        ",=>",
+                        "?=>"
+                    ]
+                }
+            },
+            "filter": {
+                "edge_ngram_filter": {
+                    "type": "edge_ngram",
+                    "min_gram": "2",
+                    "max_gram": "10",
+                    "side": "front"
+                },
+                "stop_word_filter": {
+                    "type": "stop",
+                    "stopwords": [
+                        "සහ",
+                        "හා",
+                        "වැනි",
+                        "සේ",
+                        "උපමාවක්",
+                        "නමක්",
+                        "‌මෙන්",
+                        "සමග",
+                        "කියන",
+                        "තවත්",
+                        "ත්",
+                        "ගීත",
+                        "සින්දු",
+                        "ගෙ",
+                        "ගේ",
+                        "වගේ",
+                        "ගී"
+                    ]
+                }
+            }
+        }
+    },
+    "mappings": {
+        "properties": {
+            "id": {
+                "type": "integer"
+            },
+            "title": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer"
+            },
+            "released_year": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-without-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "album": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "genre": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "lyrics": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-without-ngram",
+                "search_analyzer": "sinhala-search-analyzer"
+            },
+            "lyricist": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "musician": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "singer": {
+                "type": "text",
+                "analyzer": "sinhala-analyzer-with-ngram",
+                "search_analyzer": "sinhala-search-analyzer",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+                }
+            },
+            "mp3_listen": {
+                "properties": {
+                    "songhub": {
+                        "type": "text"
+                    },
+                    "spotify": {
+                        "type": "text"
+                    },
+                    "apple": {
+                        "type": "text"
+                    }
+                }
+            },
+            "video_watch": {
+                "type": "text"
+            },
+            "download": {
+                "type": "text"
+            },
+            "metaphor": {
+                "properties": {
+                    "lyrics_part": {
+                        "type": "text",
+                        "analyzer": "sinhala-analyzer-with-ngram",
+                        "search_analyzer": "sinhala-search-analyzer"
+                    },
+                    "meaning": {
+                        "type": "text",
+                        "analyzer": "sinhala-analyzer-without-ngram",
+                        "search_analyzer": "sinhala-search-analyzer"
+                    },
+                    "type": {
+                        "type": "text",
+                        "analyzer": "sinhala-analyzer-with-ngram",
+                        "search_analyzer": "sinhala-search-analyzer",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword"
+                            }
+                        }
+                    },
+                    "source_domain": {
+                        "type": "text",
+                        "analyzer": "sinhala-analyzer-with-ngram",
+                        "search_analyzer": "sinhala-search-analyzer"
+                    },
+                    "target_domain": {
+                        "type": "text",
+                        "analyzer": "sinhala-analyzer-with-ngram",
+                        "search_analyzer": "sinhala-search-analyzer"
+                    }
+                }
+            }
+        }
+    }
+}

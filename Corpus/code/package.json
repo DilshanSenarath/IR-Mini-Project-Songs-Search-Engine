@@ -6,7 +6,8 @@
   "scripts": {
     "create_json_files": "node create_json_files.js",
     "lyrics_formatter": "node lyrics_formatter/index.js",
-    "generate_csv": "node create_csv_from_jsons.js"
+    "generate_csv": "node create_csv_from_jsons.js",
+    "generate_json": "node create_json_all.js"
   },
   "author": "",
   "license": "ISC",
