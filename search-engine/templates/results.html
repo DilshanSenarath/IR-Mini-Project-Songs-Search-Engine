@@ -32,6 +32,26 @@
                     </nav>
                 </div>
             </div>
+            <div class="row m-2">
+                <div class="col-4 mt-4 text-center">
+                    <h4><strong>ගායකයින්</strong></h4>
+                    {% for bucket in response['aggregations']['singer_filter']['buckets']%}
+                    <p>{{bucket['key']}}: {{bucket['doc_count']}}</p>
+                    {% endfor %}
+                </div>
+                <div class="col-4 mt-4 text-center">
+                    <h4><strong>පද රචකයන්</strong></h4>
+                    {% for bucket in response['aggregations']['lyricist_filter']['buckets']%}
+                    <p>{{bucket['key']}}: {{bucket['doc_count']}}</p>
+                    {% endfor %}
+                </div>
+                <div class="col-4 mt-4 text-center">
+                    <h4><strong>සංගීතඤයන්</strong></h4>
+                    {% for bucket in response['aggregations']['musician_filter']['buckets']%}
+                    <p>{{bucket['key']}}: {{bucket['doc_count']}}</p>
+                    {% endfor %}
+                </div>
+            </div>
             <div class="row pt-5">
                 <div class="col-12 text-center">
                     <p>ප්‍රතිඵල ගණන: {{response['hits']['total']['value']}}</p>
