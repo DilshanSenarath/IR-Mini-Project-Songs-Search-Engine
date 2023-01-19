@@ -19,48 +19,14 @@
                 <div class="col-12">
                     <nav class="navbar bg-dark navbar-expand-lg" data-bs-theme="dark">
                         <div class="container-fluid">
-                            <a class="navbar-brand" href="#"><i class="bi bi-funnel"></i> පෙරහන්</a>
+                            <a class="navbar-brand" href="#"><i class="bi bi-funnel"></i> සොයා ගත් ගීත</a>
                             <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
                                 aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon text-success"></span>
                             </button>
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                                <ul class="navbar-nav">
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" role="button"
-                                            data-bs-toggle="dropdown" aria-expanded="false">
-                                            <i class="bi bi-mic"></i> ගායකයා
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Action</a></li>
-                                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" role="button"
-                                            data-bs-toggle="dropdown" aria-expanded="false">
-                                            <i class="bi bi-pen"></i> සිංදු රචකයා
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Action</a></li>
-                                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" role="button"
-                                            data-bs-toggle="dropdown" aria-expanded="false">
-                                            <i class="bi bi-music-note"></i> සංගීතඥයා
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="#">Action</a></li>
-                                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
+
                             </div>
                         </div>
                     </nav>
@@ -68,90 +34,21 @@
             </div>
             <div class="row pt-5">
                 <div class="col-12 text-center">
-                    <p>ප්‍රතිඵල ගණන: 10</p>
+                    <p>ප්‍රතිඵල ගණන: {{response['hits']['total']['value']}}</p>
                 </div>
                 <div class="col-12">
+                    {% for res in response['hits']['hits']%}
                     <div class="card mt-2">
                         <div class="card-body">
-                            <h5 class="card-title"><a href="#" class="link-primary">කීර්ති පැස්කුවෙල් - කඳුල ඉතින් සමා
-                                    වෙයන්</a></h5>
+                            <h5 class="card-title"><a href="result?id={{res['_source']['id']}}"
+                                    class="link-primary">{{res['_source']['singer']}} -
+                                    {{res['_source']['title']}}</a></h5>
                             <p class="card-text"
                                 style="display: -webkit-box;width: 100%;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;">
-                                කඳුල ඉතින් සමා වෙයන්\nඅපි
-                                වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි
-                                යහනේ තනි රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන්
-                                වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nකළු වලාව නැඟෙන්න එපා\nගඟට
-                                උඩින් හැන්දෑවට\nමුදුන් ලීය යටින්
-                                පොළවේ\nගොම හේදෙයි අලුත් පිටම\n\nකන්ද කපා හඳ පායා\nසඳ රැස් යහනට වඩින්න\nසඳ එලියෙන් ඇගේ
-                                ගතේ\nපිපි ගෝමර මල් දකින්න\n\nකඳුල
-                                ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nමල්
-                                දෙවැටේ වතුසුදු මල්\nපිපේවී ඈ
-                                පිළිගන්නට\nකොපුල් තලා ඔමරි සිනා\nමතු වෙයි මල් පරදන්නට\nබිළිඳු ගෙනා කිරි සුවදක්\nගෙපැල
-                                දොරෙන් හමා එන්න\nඉඩ දීයන් වලා
-                                කුලේ\nමගේ හීනයේ මල් පිපෙන්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ
-                                ගෙපැලට ඇය එනවා</p>
+                                {{res['_source']['lyrics']}}</p>
                         </div>
                     </div>
-                    <div class="card mt-2">
-                        <div class="card-body">
-                            <h5 class="card-title"><a href="#" class="link-primary">කීර්ති පැස්කුවෙල් - කඳුල ඉතින් සමා
-                                    වෙයන්</a></h5>
-                            <p class="card-text"
-                                style="display: -webkit-box;width: 100%;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;">
-                                කඳුල ඉතින් සමා වෙයන්\nඅපි
-                                වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි
-                                යහනේ තනි රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන්
-                                වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nකළු වලාව නැඟෙන්න එපා\nගඟට
-                                උඩින් හැන්දෑවට\nමුදුන් ලීය යටින්
-                                පොළවේ\nගොම හේදෙයි අලුත් පිටම\n\nකන්ද කපා හඳ පායා\nසඳ රැස් යහනට වඩින්න\nසඳ එලියෙන් ඇගේ
-                                ගතේ\nපිපි ගෝමර මල් දකින්න\n\nකඳුල
-                                ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nමල්
-                                දෙවැටේ වතුසුදු මල්\nපිපේවී ඈ
-                                පිළිගන්නට\nකොපුල් තලා ඔමරි සිනා\nමතු වෙයි මල් පරදන්නට\nබිළිඳු ගෙනා කිරි සුවදක්\nගෙපැල
-                                දොරෙන් හමා එන්න\nඉඩ දීයන් වලා
-                                කුලේ\nමගේ හීනයේ මල් පිපෙන්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ
-                                ගෙපැලට ඇය එනවා</p>
-                        </div>
-                    </div>
-                    <div class="card mt-2">
-                        <div class="card-body">
-                            <h5 class="card-title"><a href="#" class="link-primary">කීර්ති පැස්කුවෙල් - කඳුල ඉතින් සමා
-                                    වෙයන්</a></h5>
-                            <p class="card-text"
-                                style="display: -webkit-box;width: 100%;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;">
-                                කඳුල ඉතින් සමා වෙයන්\nඅපි
-                                වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි
-                                යහනේ තනි රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන්
-                                වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nකළු වලාව නැඟෙන්න එපා\nගඟට
-                                උඩින් හැන්දෑවට\nමුදුන් ලීය යටින්
-                                පොළවේ\nගොම හේදෙයි අලුත් පිටම\n\nකන්ද කපා හඳ පායා\nසඳ රැස් යහනට වඩින්න\nසඳ එලියෙන් ඇගේ
-                                ගතේ\nපිපි ගෝමර මල් දකින්න\n\nකඳුල
-                                ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\n\nමල්
-                                දෙවැටේ වතුසුදු මල්\nපිපේවී ඈ
-                                පිළිගන්නට\nකොපුල් තලා ඔමරි සිනා\nමතු වෙයි මල් පරදන්නට\nබිළිඳු ගෙනා කිරි සුවදක්\nගෙපැල
-                                දොරෙන් හමා එන්න\nඉඩ දීයන් වලා
-                                කුලේ\nමගේ හීනයේ මල් පිපෙන්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට
-                                ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\n\nකඳුල ඉතින් සමා වෙයන්\nඅපි වෙන් වෙමු අද හවසට\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි
-                                රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය එනවා\nසිරි යහනේ තනි රකින්න\nමගේ ගෙපැලට ඇය
-                                එනවා\nසිරි යහනේ තනි රකින්න\nමගේ
-                                ගෙපැලට ඇය එනවා</p>
-                        </div>
-                    </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>

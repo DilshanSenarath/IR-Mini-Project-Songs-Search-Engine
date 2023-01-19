@@ -18,11 +18,8 @@ musician_boosters = ["වාදනය","සංගීතය","නාද"]
 metaphor_boosters = ["උපමාවක්", "සමාන", "වගේ", "වෙනත්"]
 
 class QueryProcessor:
-    def __init__(self, query, singer, lyricist, musician):
+    def __init__(self, query):
         self.query = query
-        self.singer = singer
-        self.lyricist = lyricist
-        self.musician = musician
         self.boosts_default = {"title": 1, "released_year": 1, "album": 1, "genre": 1, "lyrics": 1, "lyricist":1, "musician":1, "singer":1, "metaphor":1}
 
     def preprocess(self):
@@ -58,10 +55,22 @@ class QueryProcessor:
         if ("*" in self.query):
             return es.search(index=INDEX, body=self.wild_card())
         else:
-            body = self.multi_match_with_agg()
-            return es.search(index=INDEX, body=body)
+            return es.search(index=INDEX, body=self.multi_match_with_agg())
 
+    def get_singal_result(self, id):
+        query = {
+            "query": {
+                "bool": {
+                    "must": {
+                        "match": {
+                            "id": {"query": f"{id}"}
+                        }
+                    }
+                }
+            }
+        }
         
+        return es.search(index=INDEX, body=query)
 
     def multi_match_with_agg(self):
         return {

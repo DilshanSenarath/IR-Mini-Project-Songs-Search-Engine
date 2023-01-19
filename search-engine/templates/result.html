@@ -19,7 +19,7 @@
                 <div class="col-12 text-center">
                     <div class=" card">
                         <div class="card-body">
-                            <h4><strong>කඳුල ඉතින් සමා වෙයන්</strong></h4>
+                            <h4><strong>{{response['hits']['hits'][0]['_source']['title']}}</strong></h4>
                         </div>
                     </div>
                 </div>
@@ -29,109 +29,44 @@
                     <div class="card mb-2">
                         <div class="card-body text-center">
                             <p style="white-space: pre-line">
-                                කඳුල ඉතින් සමා වෙයන්
-                                අපි වෙන් වෙමු අද හවසට
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-
-                                කඳුල ඉතින් සමා වෙයන්
-                                අපි වෙන් වෙමු අද හවසට
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-
-                                කළු වලාව නැඟෙන්න එපා
-                                ගඟට උඩින් හැන්දෑවට
-                                මුදුන් ලීය යටින් පොළවේ
-                                ගොම හේදෙයි අලුත් පිටම
-
-                                කන්ද කපා හඳ පායා
-                                සඳ රැස් යහනට වඩින්න
-                                සඳ එලියෙන් ඇගේ ගතේ
-                                පිපි ගෝමර මල් දකින්න
-
-                                කඳුල ඉතින් සමා වෙයන්
-                                අපි වෙන් වෙමු අද හවසට
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-
-                                මල් දෙවැටේ වතුසුදු මල්
-                                පිපේවී ඈ පිළිගන්නට
-                                කොපුල් තලා ඔමරි සිනා
-                                මතු වෙයි මල් පරදන්නට
-                                බිළිඳු ගෙනා කිරි සුවදක්
-                                ගෙපැල දොරෙන් හමා එන්න
-                                ඉඩ දීයන් වලා කුලේ
-                                මගේ හීනයේ මල් පිපෙන්න
-
-                                කඳුල ඉතින් සමා වෙයන්
-                                අපි වෙන් වෙමු අද හවසට
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-
-                                කඳුල ඉතින් සමා වෙයන්
-                                අපි වෙන් වෙමු අද හවසට
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-                                මගේ ගෙපැලට ඇය එනවා
-                                සිරි යහනේ තනි රකින්න
-                                මගේ ගෙපැලට ඇය එනවා
+                                {{response['hits']['hits'][0]['_source']['lyrics']}}
                             </p>
                         </div>
                         <div class="mb-2">
+                            {% for meta in response['hits']['hits'][0]['_source']['metaphor']%}
                             <div class="card mt-2 mx-2">
                                 <div class="card-body">
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                            <div class="col-md-8">{{meta['lyrics_part']}}</div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                            <div class="col-md-3"><strong>තේරුම:</strong></div>
+                                            <div class="col-md-8">{{meta['meaning']}}</div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                            <div class="col-md-3"><strong>වර්ගය:</strong></div>
+                                            <div class="col-md-8">{{meta['type']}}</div>
                                         </div>
                                         <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                            <div class="col-md-3"><strong>මූලාශ්ර වසම:</strong></div>
+                                            <div class="col-md-8">{{meta['source_domain']}}</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3"><strong>ඉලක්ක වසම:</strong></div>
+                                            <div class="col-md-8">{{meta['target_domain']}}</div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="card mt-2 mx-2">
-                                <div class="card-body">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                            <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="card mb-2">
-                        <iframe height="315" src="https://www.youtube.com/embed/re8cMEIA6Jk"
+                        <iframe height="315" src="{{response['hits']['hits'][0]['_source']['video_watch']}}"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
@@ -139,14 +74,18 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <button class="btn btn-info">
+                                        <a type="button"
+                                            href="{{response['hits']['hits'][0]['_source']['mp3_listen']['songhub']}}"
+                                            class="btn btn-info">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                                 fill="currentColor" class="bi bi-play-fill" viewBox="0 0 16 16">
                                                 <path
                                                     d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
                                             </svg>
-                                        </button>
-                                        <button class="btn btn-danger">
+                                        </a>
+                                        <a type="button"
+                                            href="{{response['hits']['hits'][0]['_source']['mp3_listen']['apple']}}"
+                                            class="btn btn-danger">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                                 fill="currentColor" class="bi bi-apple" viewBox="0 0 16 16">
                                                 <path
@@ -154,22 +93,25 @@
                                                 <path
                                                     d="M11.182.008C11.148-.03 9.923.023 8.857 1.18c-1.066 1.156-.902 2.482-.878 2.516.024.034 1.52.087 2.475-1.258.955-1.345.762-2.391.728-2.43Zm3.314 11.733c-.048-.096-2.325-1.234-2.113-3.422.212-2.189 1.675-2.789 1.698-2.854.023-.065-.597-.79-1.254-1.157a3.692 3.692 0 0 0-1.563-.434c-.108-.003-.483-.095-1.254.116-.508.139-1.653.589-1.968.607-.316.018-1.256-.522-2.267-.665-.647-.125-1.333.131-1.824.328-.49.196-1.422.754-2.074 2.237-.652 1.482-.311 3.83-.067 4.56.244.729.625 1.924 1.273 2.796.576.984 1.34 1.667 1.659 1.899.319.232 1.219.386 1.843.067.502-.308 1.408-.485 1.766-.472.357.013 1.061.154 1.782.539.571.197 1.111.115 1.652-.105.541-.221 1.324-1.059 2.238-2.758.347-.79.505-1.217.473-1.282Z" />
                                             </svg>
-                                        </button>
-                                        <button class="btn btn-success">
+                                        </a>
+                                        <a type="button"
+                                            href="{{response['hits']['hits'][0]['_source']['mp3_listen']['spotify']}}"
+                                            class="btn btn-success">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                                 fill="currentColor" class="bi bi-spotify" viewBox="0 0 16 16">
                                                 <path
                                                     d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z" />
                                             </svg>
-                                        </button>
-                                        <button class="btn btn-secondary">
+                                        </a>
+                                        <a type="button" href="{{response['hits']['hits'][0]['_source']['download']}}"
+                                            class="btn btn-secondary">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                                 fill="currentColor" class="bi bi-arrow-down-square-fill"
                                                 viewBox="0 0 16 16">
                                                 <path
                                                     d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 4.5v5.793l2.146-2.147a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-3-3a.5.5 0 1 1 .708-.708L7.5 10.293V4.5a.5.5 0 0 1 1 0z" />
                                             </svg>
-                                        </button>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -179,20 +121,29 @@
                         <div class="card-body">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                    <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                    <div class="col-md-6"><strong>නිකුත් වුනු අවුරුද්ද:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['released_year']}}
+                                    </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                    <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                    <div class="col-md-6"><strong>ඇල්බමය:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['album']}}</div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                    <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                    <div class="col-md-6"><strong>වර්ගය:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['genre']}}</div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-md-3"><strong>සිංදු කොටස:</strong></div>
-                                    <div class="col-md-8">සිරි යහනේ තනි රකින්න</div>
+                                    <div class="col-md-6"><strong>ගායකයා:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['singer']}}</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6"><strong>සින්දු රචකයා:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['lyricist']}}</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6"><strong>සංගීතය:</strong></div>
+                                    <div class="col-md-6">{{response['hits']['hits'][0]['_source']['musician']}}</div>
                                 </div>
                             </div>
                         </div>
@@ -202,9 +153,7 @@
         </div>
     </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
-        crossorigin="anonymous"></script>
+
 </body>
 
 </html>
