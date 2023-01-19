@@ -69,11 +69,12 @@ class QueryProcessor:
                 }
             }
         }
-        
+
         return es.search(index=INDEX, body=query)
 
     def multi_match_with_agg(self):
         return {
+            "size": 105,
             "query":{
                 "multi_match": {
                     "query": self.query,
@@ -112,10 +113,80 @@ class QueryProcessor:
 
     def wild_card(self):
         return {
+            "size": 105,
             "query": {
-                "wildcard": {
-                    "lyrics": {"value": f"{self.query}"}
+                "bool":{
+                    "should": [
+                        {
+                            "wildcard": {
+                                "title": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "released_year": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "album": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "genre": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "lyrics": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "lyricist": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "musician": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "lyricist": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "singer": {"value": f"{self.query}"}
+                            }
+                        },
+                        {
+                            "wildcard": {
+                                "metaphor": {"value": f"{self.query}"}
+                            }
+                        }
+                    ],
+                    "minimum_should_match": 1,
                 }
-            }
+            },
+            "aggs": {
+                "singer_filter": {
+                    "terms": {
+                        "field": "singer.keyword"
+                    }
+                },
+                "lyricist_filter": {
+                    "terms": {
+                        "field": "lyricist.keyword"
+                    }
+                },
+                "musician_filter": {
+                    "terms": {
+                        "field": "musician.keyword"
+                    }
+                }
+            },
         }
         
